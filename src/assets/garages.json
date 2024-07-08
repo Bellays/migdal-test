@@ -1,0 +1,5136 @@
+[
+  {
+    "Name": "מוסך יהודה מרכזי לצפון עמיר י.",
+    "Type": "סוג: מוסך כללי",
+    "Address": "יהודה הלוי ת\"ד 700",
+    "City": "טבריה",
+    "PhoneNumber": "04-6722201",
+    "FaxNumber": "04-6791078",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.7890532,
+      "Longitude": 35.5335639,
+      "Address": "יהודה הלוי ת\"ד 700 , טבריה"
+    }
+  },
+  {
+    "Name": "מוסך רובין פחחות וצבע רכב",
+    "Type": "סוג: מוסך כללי",
+    "Address": "א.תעשיה ישן",
+    "City": "צפת",
+    "PhoneNumber": "04-6970467",
+    "FaxNumber": "04-6924484",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.959649,
+      "Longitude": 35.499011,
+      "Address": "א.תעשיה ישן , צפת"
+    }
+  },
+  {
+    "Name": "מוסך סופר צבע נהריה בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "לוחמי הגיטאות 26",
+    "City": "נהרייה",
+    "PhoneNumber": "04-9923757",
+    "FaxNumber": "04-9922935",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 33.0029233,
+      "Longitude": 35.0974292,
+      "Address": "לוחמי הגיטאות 26 , נהרייה"
+    }
+  },
+  {
+    "Name": "מוסך נעמה בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "יפו 128",
+    "City": "חיפה",
+    "PhoneNumber": "04-8553392",
+    "FaxNumber": "04-8510288",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: פורד",
+    "Location": {
+      "Latitude": 32.8264015,
+      "Longitude": 34.9884448,
+      "Address": "יפו 128 , חיפה"
+    }
+  },
+  {
+    "Name": "מוסך רכב אומגה 1991 בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "אזור התעשיה חדרה",
+    "City": "חדרה",
+    "PhoneNumber": "04-6331901",
+    "FaxNumber": "04-6344364",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: ניסן",
+    "Location": {
+      "Latitude": 32.4475695,
+      "Longitude": 34.9133438,
+      "Address": "אזור התעשיה חדרה , חדרה"
+    }
+  },
+  {
+    "Name": "מוסך מעוז ישראל סרנגה",
+    "Type": "סוג: מוסך כללי",
+    "Address": "הנציב 4",
+    "City": "תל אביב - יפו",
+    "PhoneNumber": "03-5616657",
+    "FaxNumber": "03-5615969",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.0676695,
+      "Longitude": 34.7898112,
+      "Address": "הנציב 4 , תל אביב - יפו"
+    }
+  },
+  {
+    "Name": "מוסך מוטורוני שרות מיצובישי",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "ישראל בק 28",
+    "City": "תל אביב - יפו",
+    "PhoneNumber": "03-5625454",
+    "FaxNumber": "03-5626677",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: פורד",
+    "Location": {
+      "Latitude": 32.0681923,
+      "Longitude": 34.7909392,
+      "Address": "ישראל בק 28 , תל אביב - יפו"
+    }
+  },
+  {
+    "Name": "מוסך דני את דוד (2000) בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "העמל 1",
+    "City": "בת ים",
+    "PhoneNumber": "03-5512380",
+    "FaxNumber": "03-5518759",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.0073676,
+      "Longitude": 34.743895,
+      "Address": "העמל 1 , בת ים"
+    }
+  },
+  {
+    "Name": "עודד רייכמן בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "ברוך הירש 10",
+    "City": "בני ברק",
+    "PhoneNumber": "03-7333555",
+    "FaxNumber": "03-7333554",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.0969731,
+      "Longitude": 34.8257879,
+      "Address": "ברוך הירש 10 , בני ברק"
+    }
+  },
+  {
+    "Name": "צמרת רפי אסרף פחחות וצבע בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "פנחס החוצב 36",
+    "City": "באר שבע",
+    "PhoneNumber": "08-6235386",
+    "FaxNumber": "08-6274501",
+    "Area": "דרום",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.2463228,
+      "Longitude": 34.8103409,
+      "Address": "פנחס החוצב 36 , באר שבע"
+    }
+  },
+  {
+    "Name": "מוסך אופיר-ש.ארמוזה בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "אהליאב 16     א.תעשי",
+    "City": "ירושלים",
+    "PhoneNumber": "02-5388551",
+    "FaxNumber": "02-5388471",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: סיטרואן",
+    "Location": {
+      "Latitude": 31.7925671,
+      "Longitude": 35.20145,
+      "Address": "אהליאב 16     א.תעשי , ירושלים"
+    }
+  },
+  {
+    "Name": "איתן מרכז שירותי רכב הדייקנים",
+    "Type": "סוג: מוסך כללי",
+    "Address": "כהנמן 98",
+    "City": "בני ברק",
+    "PhoneNumber": "03-6774354",
+    "FaxNumber": "03-6777407",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.07837,
+      "Longitude": 34.841842,
+      "Address": "כהנמן 98 , בני ברק"
+    }
+  },
+  {
+    "Name": "מוסך מילאד 1994 בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "גזל 13 חוף שמן ת.ד.6",
+    "City": "חיפה",
+    "PhoneNumber": "04-8624444",
+    "FaxNumber": "04-8678678",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: טסלה",
+    "Location": {
+      "Latitude": 32.808724,
+      "Longitude": 35.015206,
+      "Address": "גזל 13 חוף שמן ת.ד.6 , חיפה"
+    }
+  },
+  {
+    "Name": "הילוך שישי - באר יעקב בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "ת.ד  227    היוצר 2",
+    "City": "באר יעקב",
+    "PhoneNumber": "08-9244778",
+    "FaxNumber": "08-9248424",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: דאצ'ה",
+    "Location": {
+      "Latitude": 31.9474452,
+      "Longitude": 34.8415698,
+      "Address": "ת.ד  227    היוצר 2 , באר יעקב"
+    }
+  },
+  {
+    "Name": "הילוך שישי - אזור בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "הצבר 2 א.ת. חדש",
+    "City": "אזור",
+    "PhoneNumber": "03-5569255",
+    "FaxNumber": "03-7358524",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: קיה",
+    "Location": {
+      "Latitude": 32.0301057,
+      "Longitude": 34.7972842,
+      "Address": "הצבר 2 א.ת. חדש , אזור"
+    }
+  },
+  {
+    "Name": "מוסך גורג בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "משה הס 6",
+    "City": "רמלה",
+    "PhoneNumber": "08-9250908",
+    "FaxNumber": "08-9250539",
+    "Area": "שפלה",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.9226748,
+      "Longitude": 34.8791887,
+      "Address": "משה הס 6 , רמלה"
+    }
+  },
+  {
+    "Name": "שחק א.ב. מוסכים בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "שנקר 18",
+    "City": "פתח תקווה",
+    "PhoneNumber": "03-9242820",
+    "FaxNumber": "03-9215295",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: סרס EV3",
+    "Location": {
+      "Latitude": 32.0945902,
+      "Longitude": 34.8580347,
+      "Address": "שנקר 18 , פתח תקווה"
+    }
+  },
+  {
+    "Name": "מוסך שי ו.ח. רכב ראשון בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "נדב בסקינד 6",
+    "City": "ראשון לציון",
+    "PhoneNumber": "03-9512555",
+    "FaxNumber": "03-9512666",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: טויוטה",
+    "Location": {
+      "Latitude": 31.9866794,
+      "Longitude": 34.7681667,
+      "Address": "נדב בסקינד 6 , ראשון לציון"
+    }
+  },
+  {
+    "Name": "מוסך סאבר",
+    "Type": "סוג: מוסך כללי",
+    "Address": "ת.ד 1483 א. תעשיה",
+    "City": "ג`ולס",
+    "PhoneNumber": "04-8716149",
+    "FaxNumber": "04-8716149",
+    "Area": "דרום",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.94498,
+      "Longitude": 35.184243,
+      "Address": "ת.ד 1483 א. תעשיה , ג`ולס"
+    }
+  },
+  {
+    "Name": "גרשון שירותי פחחות בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "החרושת 17",
+    "City": "רעננה",
+    "PhoneNumber": "09-7449910",
+    "FaxNumber": "09-7411826",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: פולקסווגן",
+    "Location": {
+      "Latitude": 32.1949227,
+      "Longitude": 34.880342,
+      "Address": "החרושת 17 , רעננה"
+    }
+  },
+  {
+    "Name": "מוסך מרכזי יפנאוטו בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "גיסין 80",
+    "City": "פתח תקווה",
+    "PhoneNumber": "03-7910001",
+    "FaxNumber": "03-7910061",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: אלפא",
+    "Location": {
+      "Latitude": 32.0976321,
+      "Longitude": 34.8638963,
+      "Address": "גיסין 80 , פתח תקווה"
+    }
+  },
+  {
+    "Name": "מוסך דני גלס",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "יהודה הלוי ת\"ד 832",
+    "City": "טבריה",
+    "PhoneNumber": "04-6792798",
+    "FaxNumber": "04-6717373",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: טויוטה",
+    "Location": {
+      "Latitude": 32.7890532,
+      "Longitude": 35.5335639,
+      "Address": "יהודה הלוי ת\"ד 832 , טבריה"
+    }
+  },
+  {
+    "Name": "א.א. קאר סנטר מוטורס בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "ת.ד. 12128",
+    "City": "אשדוד",
+    "PhoneNumber": "08-8527777",
+    "FaxNumber": "08-8566894",
+    "Area": "דרום",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: איסוזו",
+    "Location": {
+      "Latitude": 31.804381,
+      "Longitude": 34.655314,
+      "Address": "ת.ד. 12128 , אשדוד"
+    }
+  },
+  {
+    "Name": "א.א.ל.שרותי רכב בעמ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "אלטלף  אברהם 19",
+    "City": "יהוד-מונוסון",
+    "PhoneNumber": "03-5361316",
+    "FaxNumber": "03-5361318",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.0340049,
+      "Longitude": 34.8859465,
+      "Address": "אלטלף  אברהם 19 , יהוד-מונוסון"
+    }
+  },
+  {
+    "Name": "חולון מוטורס מוסך מרכזי לרכב י",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "הפלד 10",
+    "City": "חולון",
+    "PhoneNumber": "03-5596880",
+    "FaxNumber": "03-6533940",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: מיצובישי",
+    "Location": {
+      "Latitude": 32.0237217,
+      "Longitude": 34.7955332,
+      "Address": "הפלד 10 , חולון"
+    }
+  },
+  {
+    "Name": "מוסך יחזקאל ובניו",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "ת.ד. 53119",
+    "City": "ירושלים",
+    "PhoneNumber": "02-6733591",
+    "FaxNumber": "0732474040",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: טויוטה",
+    "Location": {
+      "Latitude": 31.768319,
+      "Longitude": 35.21371,
+      "Address": "ת.ד. 53119 , ירושלים"
+    }
+  },
+  {
+    "Name": "דרור סנקביץ - שרותי מוסכים בע\"",
+    "Type": "סוג: מוסך כללי",
+    "Address": "האצ\"ל 12",
+    "City": "ראשון לציון",
+    "PhoneNumber": "03-9612838",
+    "FaxNumber": "03-9612188",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.989167,
+      "Longitude": 34.7656937,
+      "Address": "האצ\"ל 12 , ראשון לציון"
+    }
+  },
+  {
+    "Name": "קרסו חיפה",
+    "Type": "סוג: מוסך מרכזי",
+    "Address": "ת.ד. 90 לידי מרי חיי",
+    "City": "חיפה",
+    "PhoneNumber": "04-8472222",
+    "FaxNumber": "04-8472262",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: ניסן",
+    "Location": {
+      "Latitude": 32.7940463,
+      "Longitude": 34.989571,
+      "Address": "ת.ד. 90 לידי מרי חיי , חיפה"
+    }
+  },
+  {
+    "Name": "מוסך זאב הטורים",
+    "Type": "סוג: מוסך כללי",
+    "Address": "בית היוצר 12",
+    "City": "ירושלים",
+    "PhoneNumber": "02-6782719",
+    "FaxNumber": "02-6783802",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.746947,
+      "Longitude": 35.211496,
+      "Address": "בית היוצר 12 , ירושלים"
+    }
+  },
+  {
+    "Name": "הילוך שישי - רעננה בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "היצירה 6",
+    "City": "רעננה",
+    "PhoneNumber": "09-7442958",
+    "FaxNumber": "09-7442863",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: מיצובישי",
+    "Location": {
+      "Latitude": 32.1951159,
+      "Longitude": 34.8772608,
+      "Address": "היצירה 6 , רעננה"
+    }
+  },
+  {
+    "Name": "מוסך האומן ג.מ.ובניו בע,מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "הגלגל 7",
+    "City": "אשקלון",
+    "PhoneNumber": "08-6724888",
+    "FaxNumber": "08-6724060",
+    "Area": "דרום",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.6669271,
+      "Longitude": 34.5960483,
+      "Address": "הגלגל 7 , אשקלון"
+    }
+  },
+  {
+    "Name": "טנוס מוטורס בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "העבודה 12",
+    "City": "נוף הגליל",
+    "PhoneNumber": "04-6460333",
+    "FaxNumber": "04-6460332",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.7138695,
+      "Longitude": 35.3346728,
+      "Address": "העבודה 12 , נוף הגליל"
+    }
+  },
+  {
+    "Name": "א.הנעות",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "ב החרושת 48",
+    "City": "כרמיאל",
+    "PhoneNumber": "04-9585555",
+    "FaxNumber": "04-9585558",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: רנו",
+    "Location": {
+      "Latitude": 32.9232503,
+      "Longitude": 35.31647,
+      "Address": "ב החרושת 48 , כרמיאל"
+    }
+  },
+  {
+    "Name": "מוסך האחים תורג'י חדרה בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "הזגג 24 (ת.ד 1067)",
+    "City": "חדרה",
+    "PhoneNumber": "04-6342451",
+    "FaxNumber": "04-6224968",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.4471995,
+      "Longitude": 34.9167486,
+      "Address": "הזגג 24 (ת.ד 1067) , חדרה"
+    }
+  },
+  {
+    "Name": "מרכז שירות מרתון רעננה בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "התעשיה 6 (ת.ד 2140)",
+    "City": "רעננה",
+    "PhoneNumber": "09-7404408",
+    "FaxNumber": "09-7461130",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: דאצ'ה",
+    "Location": {
+      "Latitude": 32.1967279,
+      "Longitude": 34.8823605,
+      "Address": "התעשיה 6 (ת.ד 2140) , רעננה"
+    }
+  },
+  {
+    "Name": "אוטו דלתא שירותי רכב בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "השרטט 18",
+    "City": "עפולה",
+    "PhoneNumber": "04-6401220",
+    "FaxNumber": "049028701",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.5995368,
+      "Longitude": 35.2957401,
+      "Address": "השרטט 18 , עפולה"
+    }
+  },
+  {
+    "Name": "יוניברסל משאיות- ראשון לציון",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "הרכבת 9",
+    "City": "ראשון לציון",
+    "PhoneNumber": "03-9120180",
+    "FaxNumber": "03-9116061",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: איסוזו",
+    "Location": {
+      "Latitude": 31.9730015,
+      "Longitude": 34.7925013,
+      "Address": "הרכבת 9 , ראשון לציון"
+    }
+  },
+  {
+    "Name": "מוסך ראשונים בהנהלת א.יהודה בע",
+    "Type": "סוג: מוסך כללי",
+    "Address": "שמוטקין בינימין 5",
+    "City": "ראשון לציון",
+    "PhoneNumber": "054-7890007",
+    "FaxNumber": "039699946",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.9734032,
+      "Longitude": 34.8105165,
+      "Address": "שמוטקין בינימין 5 , ראשון לציון"
+    }
+  },
+  {
+    "Name": "דנאל מוטורס בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "המוביל (ת.ד 7116) 9",
+    "City": "כפר סבא",
+    "PhoneNumber": "073-2535353",
+    "FaxNumber": "0732535355",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.179482,
+      "Longitude": 34.930991,
+      "Address": "המוביל (ת.ד 7116) 9 , כפר סבא"
+    }
+  },
+  {
+    "Name": "מוסך גבי מיארה ושות' בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "נחלת יצחק 26",
+    "City": "תל אביב - יפו",
+    "PhoneNumber": "03-6954571",
+    "FaxNumber": "03-6954571",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.0742183,
+      "Longitude": 34.7991161,
+      "Address": "נחלת יצחק 26 , תל אביב - יפו"
+    }
+  },
+  {
+    "Name": "ממסי-אקספרס ירושלים",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "נחשון 31",
+    "City": "ירושלים",
+    "PhoneNumber": "02-6312706",
+    "FaxNumber": "02-5661700",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: סוזוקי",
+    "Location": {
+      "Latitude": 31.7640766,
+      "Longitude": 35.226318,
+      "Address": "נחשון 31 , ירושלים"
+    }
+  },
+  {
+    "Name": "יוניברסל משאיות ישראל בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "הרכבת 9",
+    "City": "פתח תקווה",
+    "PhoneNumber": "03-9120020",
+    "FaxNumber": "03-9120021",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: איסוזו",
+    "Location": {
+      "Latitude": 32.1102101,
+      "Longitude": 34.890656,
+      "Address": "הרכבת 9 , פתח תקווה"
+    }
+  },
+  {
+    "Name": "שש-צ 2011 בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "אורט 23 (ת.ד 13066)",
+    "City": "נתניה",
+    "PhoneNumber": "09-8844944",
+    "FaxNumber": "09-8844655",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.3170007,
+      "Longitude": 34.8771489,
+      "Address": "אורט 23 (ת.ד 13066) , נתניה"
+    }
+  },
+  {
+    "Name": "ממסי-אקספרס ב\"ש",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "נחשון 31",
+    "City": "באר שבע",
+    "PhoneNumber": "08-8533800",
+    "FaxNumber": "08-6900651",
+    "Area": "דרום",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: סובארו",
+    "Location": {
+      "Latitude": 31.252973,
+      "Longitude": 34.791462,
+      "Address": "נחשון 31 , באר שבע"
+    }
+  },
+  {
+    "Name": "ג.ש.ר גולן שירותי רכב",
+    "Type": "סוג: מוסך כללי",
+    "Address": "ת.ד. 235",
+    "City": "קצרין",
+    "PhoneNumber": "04-6850551",
+    "FaxNumber": "04-6850553",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.990998,
+      "Longitude": 35.689865,
+      "Address": "ת.ד. 235 , קצרין"
+    }
+  },
+  {
+    "Name": "מכשירי תנועה בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "איינשטיין 1 ק.מטלון",
+    "City": "פתח תקווה",
+    "PhoneNumber": "03-9192333",
+    "FaxNumber": "03-9190420",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: סוזוקי",
+    "Location": {
+      "Latitude": 32.0919105,
+      "Longitude": 34.8539044,
+      "Address": "איינשטיין 1 ק.מטלון , פתח תקווה"
+    }
+  },
+  {
+    "Name": "מוסך רעים בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "מרדכי אנילביץ 40",
+    "City": "תל אביב - יפו",
+    "PhoneNumber": "03-6877160",
+    "FaxNumber": "03-5374362",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.0625873,
+      "Longitude": 34.7885533,
+      "Address": "מרדכי אנילביץ 40 , תל אביב - יפו"
+    }
+  },
+  {
+    "Name": "אוטובר פחחות וצבע בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "האופה 20",
+    "City": "אשקלון",
+    "PhoneNumber": "08-9555413",
+    "FaxNumber": "08-9550180",
+    "Area": "שפלה",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.6371351,
+      "Longitude": 34.5536952,
+      "Address": "האופה 20 , אשקלון"
+    }
+  },
+  {
+    "Name": "אסי רוזיליו מוסך רוזיליו",
+    "Type": "סוג: מוסך כללי",
+    "Address": "משה יתום 9",
+    "City": "רחובות",
+    "PhoneNumber": "052-5851414",
+    "FaxNumber": "089361925",
+    "Area": "שפלה",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.8899669,
+      "Longitude": 34.7850875,
+      "Address": "משה יתום 9 , רחובות"
+    }
+  },
+  {
+    "Name": "כלמוביל בע\"מ - כרמיאל",
+    "Type": "סוג: מוסך מרכזי",
+    "Address": "הסדנה 1",
+    "City": "כרמיאל",
+    "PhoneNumber": "04-9089900",
+    "FaxNumber": "049885433",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: מרצדס",
+    "Location": {
+      "Latitude": 32.914671,
+      "Longitude": 35.292417,
+      "Address": "הסדנה 1 , כרמיאל"
+    }
+  },
+  {
+    "Name": "יוניברסל משאיות- חיפה",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "הרכבת 9",
+    "City": "חיפה",
+    "PhoneNumber": "03-9120164",
+    "FaxNumber": "04-6554100",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: הרשומים",
+    "Location": {
+      "Latitude": 32.8266901,
+      "Longitude": 34.9877355,
+      "Address": "הרכבת 9 , חיפה"
+    }
+  },
+  {
+    "Name": "מוסך שגיא (ע.ב) בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "רח' 1244 דוד חכמי 21",
+    "City": "תל אביב - יפו",
+    "PhoneNumber": "03-6872926",
+    "FaxNumber": "03-6871662",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.0631083,
+      "Longitude": 34.7851425,
+      "Address": "רח' 1244 דוד חכמי 21 , תל אביב - יפו"
+    }
+  },
+  {
+    "Name": "ממסי-אקספרס אשדוד",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "נחשון 31",
+    "City": "אשדוד",
+    "PhoneNumber": "08-6420200",
+    "FaxNumber": "08-6440100",
+    "Area": "שפלה",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: קיה",
+    "Location": {
+      "Latitude": 32.1084142,
+      "Longitude": 34.8930177,
+      "Address": "נחשון 31 , אשדוד"
+    }
+  },
+  {
+    "Name": "א.ב עפולה בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "המגל 7",
+    "City": "עפולה",
+    "PhoneNumber": "017-500213",
+    "FaxNumber": "04-6068671",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.6052861,
+      "Longitude": 35.2959007,
+      "Address": "המגל 7 , עפולה"
+    }
+  },
+  {
+    "Name": "ממסי-אקספרס חיפה",
+    "Type": "סוג: מוסך כללי",
+    "Address": "נחשון 31",
+    "City": "חיפה",
+    "PhoneNumber": "04-6101200",
+    "FaxNumber": "04-6101300",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.7898401,
+      "Longitude": 34.9849146,
+      "Address": "נחשון 31 , חיפה"
+    }
+  },
+  {
+    "Name": "א.א.א מוקד הרכב בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "עמל 64",
+    "City": "פתח תקווה",
+    "PhoneNumber": "03-9271927",
+    "FaxNumber": "03-9230720",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.096945,
+      "Longitude": 34.848855,
+      "Address": "עמל 64 , פתח תקווה"
+    }
+  },
+  {
+    "Name": "שלמה רשת מוסכים ש.י.ר",
+    "Type": "סוג: מוסך כללי",
+    "Address": "ת.ד 3055 (בריג'יט)",
+    "City": "פתח תקווה",
+    "PhoneNumber": "03-9114041",
+    "FaxNumber": "03-9233499",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.084041,
+      "Longitude": 34.887762,
+      "Address": "ת.ד 3055 (בריג'יט) , פתח תקווה"
+    }
+  },
+  {
+    "Name": "מוטור אפ בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "ת.ד. 3095",
+    "City": "פתח תקווה",
+    "PhoneNumber": "03-9224207",
+    "FaxNumber": "0722200288",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: פולקסווגן",
+    "Location": {
+      "Latitude": 32.084041,
+      "Longitude": 34.887762,
+      "Address": "ת.ד. 3095 , פתח תקווה"
+    }
+  },
+  {
+    "Name": "מוסך הרצל את ניסים בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "קהילת ציון 25",
+    "City": "עפולה",
+    "PhoneNumber": "04-6401650",
+    "FaxNumber": "04-6401651",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.6056522,
+      "Longitude": 35.2966255,
+      "Address": "קהילת ציון 25 , עפולה"
+    }
+  },
+  {
+    "Name": "מוסך יוסי צמח בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "ברוך הירש 26",
+    "City": "בני ברק",
+    "PhoneNumber": "03-5706587",
+    "FaxNumber": "03-6196928",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.097662,
+      "Longitude": 34.8278237,
+      "Address": "ברוך הירש 26 , בני ברק"
+    }
+  },
+  {
+    "Name": "ד.א.מוסך פלוס בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "ת.ד 5217",
+    "City": "נתיבות",
+    "PhoneNumber": "08-9943605",
+    "FaxNumber": "03-7604585",
+    "Area": "דרום",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.423196,
+      "Longitude": 34.595254,
+      "Address": "ת.ד 5217 , נתיבות"
+    }
+  },
+  {
+    "Name": "מוסך אוטו - טופ בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "המתכת (ת.ד 12603) 41",
+    "City": "אשדוד",
+    "PhoneNumber": "08-8524444",
+    "FaxNumber": "08-8568899",
+    "Area": "דרום",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.831809,
+      "Longitude": 34.6786357,
+      "Address": "המתכת (ת.ד 12603) 41 , אשדוד"
+    }
+  },
+  {
+    "Name": "מכשירי תנועה ומכוניות(2004) בע",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "איינשטיין 1 ק.מטלון",
+    "City": "ראשון לציון",
+    "PhoneNumber": "03-6841440",
+    "FaxNumber": "03-9639154",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: מעל 3.5  טון ,",
+    "VehicleModel": "דגם: סוזוקי",
+    "Location": {
+      "Latitude": 31.9659827,
+      "Longitude": 34.7925465,
+      "Address": "איינשטיין 1 ק.מטלון , ראשון לציון"
+    }
+  },
+  {
+    "Name": "ד\"ר פח וצבע קרני אור רחובות בע",
+    "Type": "סוג: מוסך כללי",
+    "Address": "היצירה 7",
+    "City": "רחובות",
+    "PhoneNumber": "08-9999201",
+    "FaxNumber": "08-9999205",
+    "Area": "שפלה",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: סקודה",
+    "Location": {
+      "Latitude": 31.8878112,
+      "Longitude": 34.7802955,
+      "Address": "היצירה 7 , רחובות"
+    }
+  },
+  {
+    "Name": "מוסך האושר ובניו בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "איזמרגד 6",
+    "City": "קריית גת",
+    "PhoneNumber": "08-6812199",
+    "FaxNumber": "08-6812199",
+    "Area": "דרום",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.5885067,
+      "Longitude": 34.7812472,
+      "Address": "איזמרגד 6 , קריית גת"
+    }
+  },
+  {
+    "Name": "מוסך סדן בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "ת.ד 2030",
+    "City": "עכו",
+    "PhoneNumber": "04-9912261",
+    "FaxNumber": "04-9817163",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.933052,
+      "Longitude": 35.082678,
+      "Address": "ת.ד 2030 , עכו"
+    }
+  },
+  {
+    "Name": "סוכנות מורשית פ.א.י בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "ספיר 8",
+    "City": "בית שמש",
+    "PhoneNumber": "053-7515517",
+    "FaxNumber": "1111",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: טויוטה",
+    "Location": {
+      "Latitude": 31.747041,
+      "Longitude": 34.988099,
+      "Address": "ספיר 8 , בית שמש"
+    }
+  },
+  {
+    "Name": "מוסך סיידון בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "היובלים 14",
+    "City": "הוד השרון",
+    "PhoneNumber": "054-3440088",
+    "FaxNumber": "097403431",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.1329343,
+      "Longitude": 34.9036544,
+      "Address": "היובלים 14 , הוד השרון"
+    }
+  },
+  {
+    "Name": "המומחים לפחחות וצבע",
+    "Type": "סוג: מוסך כללי",
+    "Address": "ת.ד 1586",
+    "City": "נצרת",
+    "PhoneNumber": "04-6463803",
+    "FaxNumber": "0779620954",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.699635,
+      "Longitude": 35.303546,
+      "Address": "ת.ד 1586 , נצרת"
+    }
+  },
+  {
+    "Name": "מוסך חן חנניה עמרם בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "העבודה 21",
+    "City": "ראש העין",
+    "PhoneNumber": "03-5564422",
+    "FaxNumber": "03-5472044",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.1080129,
+      "Longitude": 34.9396887,
+      "Address": "העבודה 21 , ראש העין"
+    }
+  },
+  {
+    "Name": "אר.די.בי מוטורס בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "סיקסט 1",
+    "City": "רמלה",
+    "PhoneNumber": "052-4659971",
+    "FaxNumber": "1111",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: קיה",
+    "Location": {
+      "Latitude": 31.931566,
+      "Longitude": 34.872938,
+      "Address": "סיקסט 1 , רמלה"
+    }
+  },
+  {
+    "Name": "מוסך צמרת",
+    "Type": "סוג: מוסך כללי",
+    "Address": "התעשיה 5",
+    "City": "ירושלים",
+    "PhoneNumber": "02-6716017",
+    "FaxNumber": "02-6723818",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.748272,
+      "Longitude": 35.214519,
+      "Address": "התעשיה 5 , ירושלים"
+    }
+  },
+  {
+    "Name": "מרכז שרות - לי בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "הסדנא 4",
+    "City": "כפר סבא",
+    "PhoneNumber": "09-7687457",
+    "FaxNumber": "09-7687460",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: אלפא",
+    "Location": {
+      "Latitude": 32.171789,
+      "Longitude": 34.9251116,
+      "Address": "הסדנא 4 , כפר סבא"
+    }
+  },
+  {
+    "Name": "מוסך רון שטיין בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "הפרסה 3",
+    "City": "כפר סבא",
+    "PhoneNumber": "09-7656764",
+    "FaxNumber": "097656905",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.1772993,
+      "Longitude": 34.9294526,
+      "Address": "הפרסה 3 , כפר סבא"
+    }
+  },
+  {
+    "Name": "ד\"ר פח וצבע בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "הנגב 16",
+    "City": "תל אביב - יפו",
+    "PhoneNumber": "03-6878811",
+    "FaxNumber": "03-6878833",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.0612965,
+      "Longitude": 34.7796772,
+      "Address": "הנגב 16 , תל אביב - יפו"
+    }
+  },
+  {
+    "Name": "ח.מ.גולד מוטורס מרכז שרות מודי",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "ביתן 27",
+    "City": "מודיעין-מכבים-רעו",
+    "PhoneNumber": "08-6689700",
+    "FaxNumber": "08-6689707",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: SAIC",
+    "Location": {
+      "Latitude": 31.890267,
+      "Longitude": 35.010397,
+      "Address": "ביתן 27 , מודיעין-מכבים-רעו"
+    }
+  },
+  {
+    "Name": "שגריר מערכות - פתח תקווה",
+    "Type": "סוג: מוסך כללי",
+    "Address": "הנפח 8 (ת.ד 1715) 8",
+    "City": "פתח תקווה",
+    "PhoneNumber": "073-2288257",
+    "FaxNumber": "03-9344788",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.019247,
+      "Longitude": 34.7972723,
+      "Address": "הנפח 8 (ת.ד 1715) 8 , פתח תקווה"
+    }
+  },
+  {
+    "Name": "מוסך מנשה משיח בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "בן ציון גליס 37",
+    "City": "פתח תקווה",
+    "PhoneNumber": "03-9300276",
+    "FaxNumber": "03-9040767",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.1055078,
+      "Longitude": 34.8908732,
+      "Address": "בן ציון גליס 37 , פתח תקווה"
+    }
+  },
+  {
+    "Name": "אלמוג ש.ח. בע\"מ נתניה",
+    "Type": "סוג: מוסך כללי",
+    "Address": "שכטרמן 1",
+    "City": "נתניה",
+    "PhoneNumber": "09-8617666",
+    "FaxNumber": "098617655",
+    "Area": "שרון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.3204926,
+      "Longitude": 34.8728661,
+      "Address": "שכטרמן 1 , נתניה"
+    }
+  },
+  {
+    "Name": "מוסך נוגה בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "המעפילים 21",
+    "City": "קריית אתא",
+    "PhoneNumber": "054-7724218",
+    "FaxNumber": "046203951",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.8037971,
+      "Longitude": 35.0679483,
+      "Address": "המעפילים 21 , קריית אתא"
+    }
+  },
+  {
+    "Name": "אס.או.אס שרותי רכב בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "קומבה 12",
+    "City": "חדרה",
+    "PhoneNumber": "050-3792116",
+    "FaxNumber": "046344123",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.4465141,
+      "Longitude": 34.9109077,
+      "Address": "קומבה 12 , חדרה"
+    }
+  },
+  {
+    "Name": "א.ל פח וצבע בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "הסדנא 4",
+    "City": "באר שבע",
+    "PhoneNumber": "074-7100004",
+    "FaxNumber": "0747100006",
+    "Area": "דרום",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.2527635,
+      "Longitude": 34.8226097,
+      "Address": "הסדנא 4 , באר שבע"
+    }
+  },
+  {
+    "Name": "גולדמוביל ירושלים בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "האופה (גבעת שאול) 3",
+    "City": "ירושלים",
+    "PhoneNumber": "02-6473000",
+    "FaxNumber": "02-6473001",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.7912355,
+      "Longitude": 35.195375,
+      "Address": "האופה (גבעת שאול) 3 , ירושלים"
+    }
+  },
+  {
+    "Name": "סוכנות מורשית קיה בית שמש בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "ספיר 8",
+    "City": "בית שמש",
+    "PhoneNumber": "052-4659971",
+    "FaxNumber": "089142121",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: קיה",
+    "Location": {
+      "Latitude": 31.747041,
+      "Longitude": 34.988099,
+      "Address": "ספיר 8 , בית שמש"
+    }
+  },
+  {
+    "Name": "ופנר שירותים לרכב בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "אנילביץ 44",
+    "City": "תל אביב - יפו",
+    "PhoneNumber": "03-6832859",
+    "FaxNumber": "03-6815012",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: סוזוקי",
+    "Location": {
+      "Latitude": 32.0628415,
+      "Longitude": 34.788602,
+      "Address": "אנילביץ 44 , תל אביב - יפו"
+    }
+  },
+  {
+    "Name": "מרכז שרות יונדאי הצפון",
+    "Type": "סוג: מוסך כללי",
+    "Address": "ת.ד 25145",
+    "City": "חיפה",
+    "PhoneNumber": "04-8405888",
+    "FaxNumber": "04-8402323",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.7940463,
+      "Longitude": 34.989571,
+      "Address": "ת.ד 25145 , חיפה"
+    }
+  },
+  {
+    "Name": "מרכז שירות עד לוי בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "המסגר 4 (ת.ד 2237)",
+    "City": "כפר סבא",
+    "PhoneNumber": "09-7672882",
+    "FaxNumber": "09-7672927",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: קיה",
+    "Location": {
+      "Latitude": 32.175129,
+      "Longitude": 34.9326497,
+      "Address": "המסגר 4 (ת.ד 2237) , כפר סבא"
+    }
+  },
+  {
+    "Name": "א.א.ל מודיעין מרכז שירות לרכב",
+    "Type": "סוג: מוסך כללי",
+    "Address": "המכונאי 19",
+    "City": "מודיעין-מכבים-רעו",
+    "PhoneNumber": "08-6317766",
+    "FaxNumber": "08-9171370",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.8861061,
+      "Longitude": 34.9597995,
+      "Address": "המכונאי 19 , מודיעין-מכבים-רעו"
+    }
+  },
+  {
+    "Name": "מוסך הרצליה צמרת בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "מדינת היהודים 95",
+    "City": "הרצליה",
+    "PhoneNumber": "09-9566303",
+    "FaxNumber": "09-9554574",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.1658254,
+      "Longitude": 34.8123055,
+      "Address": "מדינת היהודים 95 , הרצליה"
+    }
+  },
+  {
+    "Name": "מוסך דעדוש",
+    "Type": "סוג: מוסך כללי",
+    "Address": "אום אל פחם",
+    "City": "אום אל-פחם",
+    "PhoneNumber": "04-6311153",
+    "FaxNumber": "04-6311153",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.517127,
+      "Longitude": 35.148529,
+      "Address": "אום אל פחם , אום אל-פחם"
+    }
+  },
+  {
+    "Name": "השחר מוטורס (2000) בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "המלאכה 47",
+    "City": "חולון",
+    "PhoneNumber": "03-5504501",
+    "FaxNumber": "03-5504502",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: פולקסווגן",
+    "Location": {
+      "Latitude": 32.01518,
+      "Longitude": 34.7999676,
+      "Address": "המלאכה 47 , חולון"
+    }
+  },
+  {
+    "Name": "מוסך מילאד בדיע יוסף בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "תל אביב 18",
+    "City": "חיפה",
+    "PhoneNumber": "04-8553903",
+    "FaxNumber": "04-8525656",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.8255895,
+      "Longitude": 34.9872549,
+      "Address": "תל אביב 18 , חיפה"
+    }
+  },
+  {
+    "Name": "א.א.גלס בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "הרכבים ת.ד.53150 15",
+    "City": "ירושלים",
+    "PhoneNumber": "02-6409999",
+    "FaxNumber": "02-6783985",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.753357,
+      "Longitude": 35.2128307,
+      "Address": "הרכבים ת.ד.53150 15 , ירושלים"
+    }
+  },
+  {
+    "Name": "מוסך אייל חי בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "בעלי המלאכה 19",
+    "City": "ירושלים",
+    "PhoneNumber": "02-6793444",
+    "FaxNumber": "02-6793466",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.7483058,
+      "Longitude": 35.2097766,
+      "Address": "בעלי המלאכה 19 , ירושלים"
+    }
+  },
+  {
+    "Name": "ד\"ר פח וצבע פתח תקוה בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "עמל 35",
+    "City": "פתח תקווה",
+    "PhoneNumber": "03-9224822",
+    "FaxNumber": "03-6338354",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.0964203,
+      "Longitude": 34.8494399,
+      "Address": "עמל 35 , פתח תקווה"
+    }
+  },
+  {
+    "Name": "מכשירי תנועה בע\"מ-ת\"א",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "איינשטיין 1 ק.מטלון",
+    "City": "תל אביב - יפו",
+    "PhoneNumber": "03-5622604",
+    "FaxNumber": "03-5622768",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: סוזוקי",
+    "Location": {
+      "Latitude": 32.0900505,
+      "Longitude": 34.850832,
+      "Address": "איינשטיין 1 ק.מטלון , תל אביב - יפו"
+    }
+  },
+  {
+    "Name": "שגריר מערכות - ירושלים",
+    "Type": "סוג: מוסך כללי",
+    "Address": "הנפח 8 (ת.ד 1715) 8",
+    "City": "ירושלים",
+    "PhoneNumber": "073-2288242",
+    "FaxNumber": "03-5582123",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.019247,
+      "Longitude": 34.7972723,
+      "Address": "הנפח 8 (ת.ד 1715) 8 , ירושלים"
+    }
+  },
+  {
+    "Name": "ס.ב.מ שירותי רכב בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "א.ת נוף הארץ",
+    "City": "כפר קאסם",
+    "PhoneNumber": "03-5481219",
+    "FaxNumber": "03-7306652",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.115107,
+      "Longitude": 34.955974,
+      "Address": "א.ת נוף הארץ , כפר קאסם"
+    }
+  },
+  {
+    "Name": "אלמוג ש.ח. בע\"מ באקה",
+    "Type": "סוג: מוסך כללי",
+    "Address": "שכטרמן 1",
+    "City": "באקה אל-גרביה",
+    "PhoneNumber": "04-8617666",
+    "FaxNumber": "048617655",
+    "Area": "שרון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.422891,
+      "Longitude": 35.035764,
+      "Address": "שכטרמן 1 , באקה אל-גרביה"
+    }
+  },
+  {
+    "Name": "מרכז שירות אוטו שי פחחות וצבע",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "האצ\"ל 21",
+    "City": "ראשון לציון",
+    "PhoneNumber": "03-6335237",
+    "FaxNumber": "036335237",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: אלפא",
+    "Location": {
+      "Latitude": 31.9893764,
+      "Longitude": 34.7645631,
+      "Address": "האצ\"ל 21 , ראשון לציון"
+    }
+  },
+  {
+    "Name": "מוסך דודו כהן (2009) בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "יד חרוצים 14",
+    "City": "ירושלים",
+    "PhoneNumber": "02-5379995",
+    "FaxNumber": "02-5379980",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.7523917,
+      "Longitude": 35.2163395,
+      "Address": "יד חרוצים 14 , ירושלים"
+    }
+  },
+  {
+    "Name": "מוסך טופ פחחות וצבע לרכב בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "ת.ד 114",
+    "City": "אור עקיבא",
+    "PhoneNumber": "04-6362826",
+    "FaxNumber": "04-6262827",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.509965,
+      "Longitude": 34.920394,
+      "Address": "ת.ד 114 , אור עקיבא"
+    }
+  },
+  {
+    "Name": "ס.מ.א.ח לרכב 2001 בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "החרמש 5 (ת.ד 1027)",
+    "City": "כרמיאל",
+    "PhoneNumber": "04-9586618",
+    "FaxNumber": "04-9880246",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.9230881,
+      "Longitude": 35.3106432,
+      "Address": "החרמש 5 (ת.ד 1027) , כרמיאל"
+    }
+  },
+  {
+    "Name": "מוסך ליטל 2008 בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "האחים מסלאויטה 8",
+    "City": "תל אביב - יפו",
+    "PhoneNumber": "03-5622072",
+    "FaxNumber": "03-5622072",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.0675663,
+      "Longitude": 34.7905432,
+      "Address": "האחים מסלאויטה 8 , תל אביב - יפו"
+    }
+  },
+  {
+    "Name": "אלומה עיצוב רכב בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "התעשיה 21",
+    "City": "רעננה",
+    "PhoneNumber": "054-4959142",
+    "FaxNumber": "09-7729044",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.1961014,
+      "Longitude": 34.8771061,
+      "Address": "התעשיה 21 , רעננה"
+    }
+  },
+  {
+    "Name": "דוד לובינסקי בע\"מ",
+    "Type": "סוג: מוסך מרכזי",
+    "Address": "מרק (מרה) מושביץ 3 מ",
+    "City": "ראשון לציון",
+    "PhoneNumber": "03-6710543",
+    "FaxNumber": "0732799181",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: סיטרואן",
+    "Location": {
+      "Latitude": 31.9515386,
+      "Longitude": 34.7683812,
+      "Address": "מרק (מרה) מושביץ 3 מ , ראשון לציון"
+    }
+  },
+  {
+    "Name": "דוד לובינסקי בע\"מ",
+    "Type": "סוג: מוסך מרכזי",
+    "Address": "מרק (מרה) מושביץ 3 מ",
+    "City": "ירושלים",
+    "PhoneNumber": "02-6756555",
+    "FaxNumber": "02-6756530",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.9515386,
+      "Longitude": 34.7683812,
+      "Address": "מרק (מרה) מושביץ 3 מ , ירושלים"
+    }
+  },
+  {
+    "Name": "מרכז שרותי י.נ.מ  בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "ישראל בק 32",
+    "City": "תל אביב - יפו",
+    "PhoneNumber": "03-5614846",
+    "FaxNumber": "03-5618664",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: דייהטסו",
+    "Location": {
+      "Latitude": 32.068071,
+      "Longitude": 34.7913686,
+      "Address": "ישראל בק 32 , תל אביב - יפו"
+    }
+  },
+  {
+    "Name": "מוסך ש.קלעי ובנו בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "טברסקי 7",
+    "City": "תל אביב - יפו",
+    "PhoneNumber": "03-5620345",
+    "FaxNumber": "03-5621912",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: פורד",
+    "Location": {
+      "Latitude": 32.0657272,
+      "Longitude": 34.7888157,
+      "Address": "טברסקי 7 , תל אביב - יפו"
+    }
+  },
+  {
+    "Name": "ד\"ר פח וצבע רעננה בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "החרושת 7",
+    "City": "רעננה",
+    "PhoneNumber": "09-7412124",
+    "FaxNumber": "09-7405817",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.1938081,
+      "Longitude": 34.8805002,
+      "Address": "החרושת 7 , רעננה"
+    }
+  },
+  {
+    "Name": "שיא סוכנויות רכב שחודה 2000 בע",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "דרך בר יהודה 69",
+    "City": "נשר",
+    "PhoneNumber": "052-2414041",
+    "FaxNumber": "04-8204820",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: ב.מ.וו",
+    "Location": {
+      "Latitude": 32.7750285,
+      "Longitude": 35.0429042,
+      "Address": "דרך בר יהודה 69 , נשר"
+    }
+  },
+  {
+    "Name": "מרכז שירות גיל רם בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "בזלת 11 (ת.ד 6339)",
+    "City": "כרמיאל",
+    "PhoneNumber": "04-9583387",
+    "FaxNumber": "04-9980354",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.9273681,
+      "Longitude": 35.3471374,
+      "Address": "בזלת 11 (ת.ד 6339) , כרמיאל"
+    }
+  },
+  {
+    "Name": "אלעד וגיא פחחות וצבע בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "הלהב 2",
+    "City": "חולון",
+    "PhoneNumber": "050-2696950",
+    "FaxNumber": "03-6720212",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.012178,
+      "Longitude": 34.8043369,
+      "Address": "הלהב 2 , חולון"
+    }
+  },
+  {
+    "Name": "מוסך פרוספר דימונה בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "ת.ד 755 אזה\"ת דימונה",
+    "City": "דימונה",
+    "PhoneNumber": "08-6558878",
+    "FaxNumber": "08-6553323",
+    "Area": "דרום",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.069419,
+      "Longitude": 35.033363,
+      "Address": "ת.ד 755 אזה\"ת דימונה , דימונה"
+    }
+  },
+  {
+    "Name": "אוטו פח י.א בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "הסדנא 15",
+    "City": "ירושלים",
+    "PhoneNumber": "054-3203204",
+    "FaxNumber": "026794030",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: וולוו",
+    "Location": {
+      "Latitude": 31.7497902,
+      "Longitude": 35.2126961,
+      "Address": "הסדנא 15 , ירושלים"
+    }
+  },
+  {
+    "Name": "ש.א קראקרה (2008) בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "כביש ראשי 805",
+    "City": "עראבה",
+    "PhoneNumber": "052-6203175",
+    "FaxNumber": "1534674165",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.8603553,
+      "Longitude": 35.3397958,
+      "Address": "כביש ראשי 805 , עראבה"
+    }
+  },
+  {
+    "Name": "מוסך ישראל שליין ובניו בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "יוסף לוי 32",
+    "City": "קריית ביאליק",
+    "PhoneNumber": "04-8761438",
+    "FaxNumber": "04-6773521",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: פולקסווגן",
+    "Location": {
+      "Latitude": 32.8675019,
+      "Longitude": 35.096862,
+      "Address": "יוסף לוי 32 , קריית ביאליק"
+    }
+  },
+  {
+    "Name": "שגריר מערכות - חיפה",
+    "Type": "סוג: מוסך כללי",
+    "Address": "הנפח 8 (ת.ד 1715) 8",
+    "City": "חיפה",
+    "PhoneNumber": "073-2288241",
+    "FaxNumber": "04-6963892",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.7892395,
+      "Longitude": 35.0331057,
+      "Address": "הנפח 8 (ת.ד 1715) 8 , חיפה"
+    }
+  },
+  {
+    "Name": "מ.פטין 1999 בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "העמל 4",
+    "City": "עכו",
+    "PhoneNumber": "04-9916571",
+    "FaxNumber": "04-9912226",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.9228026,
+      "Longitude": 35.079056,
+      "Address": "העמל 4 , עכו"
+    }
+  },
+  {
+    "Name": "מוסך מולדת בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "יד חרוצים 4",
+    "City": "ירושלים",
+    "PhoneNumber": "02-6731606",
+    "FaxNumber": "02-6731647",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.7544185,
+      "Longitude": 35.2173146,
+      "Address": "יד חרוצים 4 , ירושלים"
+    }
+  },
+  {
+    "Name": "מוסך מנור ישראל פ\"ת 2001 בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "אלכסנדר ינאי 17",
+    "City": "פתח תקווה",
+    "PhoneNumber": "052-2316488",
+    "FaxNumber": "039054460",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: דאצ'ה",
+    "Location": {
+      "Latitude": 32.1056415,
+      "Longitude": 34.8973355,
+      "Address": "אלכסנדר ינאי 17 , פתח תקווה"
+    }
+  },
+  {
+    "Name": "מוסך פליקס בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "טברסקי 5",
+    "City": "תל אביב - יפו",
+    "PhoneNumber": "073-7597784",
+    "FaxNumber": "03-6241356",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: פולקסווגן",
+    "Location": {
+      "Latitude": 32.0653908,
+      "Longitude": 34.7888249,
+      "Address": "טברסקי 5 , תל אביב - יפו"
+    }
+  },
+  {
+    "Name": "גפי מוטורס בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "ת.ד. 2640",
+    "City": "עכו",
+    "PhoneNumber": "04-9955000",
+    "FaxNumber": "04-9955022",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: מיצובישי",
+    "Location": {
+      "Latitude": 32.933052,
+      "Longitude": 35.082678,
+      "Address": "ת.ד. 2640 , עכו"
+    }
+  },
+  {
+    "Name": "כלמוביל בע\"מ-פ\"ת",
+    "Type": "סוג: מוסך מרכזי",
+    "Address": "הסדנה 1",
+    "City": "פתח תקווה",
+    "PhoneNumber": "03-9180202",
+    "FaxNumber": "03-6307928",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: מרצדס",
+    "Location": {
+      "Latitude": 32.0952686,
+      "Longitude": 34.8593275,
+      "Address": "הסדנה 1 , פתח תקווה"
+    }
+  },
+  {
+    "Name": "אסגל בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "צה\"ל 1",
+    "City": "אשקלון",
+    "PhoneNumber": "08-6777111",
+    "FaxNumber": "08-6777121",
+    "Area": "דרום",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: טויוטה",
+    "Location": {
+      "Latitude": 31.6615755,
+      "Longitude": 34.597385,
+      "Address": "צה\"ל 1 , אשקלון"
+    }
+  },
+  {
+    "Name": "ידי זהב אומני הפח והצבע בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "מאי 5-10",
+    "City": "חיפה",
+    "PhoneNumber": "04-8558555",
+    "FaxNumber": "04-8554554",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.8206768,
+      "Longitude": 34.9945794,
+      "Address": "מאי 5-10 , חיפה"
+    }
+  },
+  {
+    "Name": "חלוצי שרות לרכב בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "שלמה בן יוסף 26",
+    "City": "קריית אתא",
+    "PhoneNumber": "04-8727250",
+    "FaxNumber": "04-8415039",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: ניסן",
+    "Location": {
+      "Latitude": 32.8046682,
+      "Longitude": 35.0731321,
+      "Address": "שלמה בן יוסף 26 , קריית אתא"
+    }
+  },
+  {
+    "Name": "מוסך לוק בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "לונדון 6",
+    "City": "שדרות",
+    "PhoneNumber": "08-6899072",
+    "FaxNumber": "08-6899073",
+    "Area": "דרום",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.521699,
+      "Longitude": 34.609488,
+      "Address": "לונדון 6 , שדרות"
+    }
+  },
+  {
+    "Name": "אבי זרח ובניו בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "מבצע קדש 51",
+    "City": "בני ברק",
+    "PhoneNumber": "03-5792323",
+    "FaxNumber": "03-5792733",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.0975356,
+      "Longitude": 34.8288045,
+      "Address": "מבצע קדש 51 , בני ברק"
+    }
+  },
+  {
+    "Name": "מרכז שרות תאוצה ירושלים 2003 ב",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "האומן 15",
+    "City": "ירושלים",
+    "PhoneNumber": "02-6799951",
+    "FaxNumber": "02-6794471",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: ב.מ.וו",
+    "Location": {
+      "Latitude": 31.7497376,
+      "Longitude": 35.2094375,
+      "Address": "האומן 15 , ירושלים"
+    }
+  },
+  {
+    "Name": "מוסך גבור - מזדה",
+    "Type": "סוג: מוסך כללי",
+    "Address": "תחנת דלק",
+    "City": "נצרת",
+    "PhoneNumber": "04-6461256",
+    "FaxNumber": "04-6561457",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.699635,
+      "Longitude": 35.303546,
+      "Address": "תחנת דלק , נצרת"
+    }
+  },
+  {
+    "Name": "שיא מוטורס נתניה",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "דרך בר יהודה 69",
+    "City": "נתניה",
+    "PhoneNumber": "09-7790099",
+    "FaxNumber": "09-8800164",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: ב.מ.וו",
+    "Location": {
+      "Latitude": 32.2742809,
+      "Longitude": 34.9173747,
+      "Address": "דרך בר יהודה 69 , נתניה"
+    }
+  },
+  {
+    "Name": "מוסך רפי ובניו",
+    "Type": "סוג: מוסך כללי",
+    "Address": "הקדר 17",
+    "City": "נתניה",
+    "PhoneNumber": "09-8870642",
+    "FaxNumber": "09-8623435",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.3228812,
+      "Longitude": 34.8764465,
+      "Address": "הקדר 17 , נתניה"
+    }
+  },
+  {
+    "Name": "מוסך בסגנון 2000 בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "אליקום 8",
+    "City": "תל אביב - יפו",
+    "PhoneNumber": "03-6821470",
+    "FaxNumber": "036831699",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.0534449,
+      "Longitude": 34.774022,
+      "Address": "אליקום 8 , תל אביב - יפו"
+    }
+  },
+  {
+    "Name": "מוסך ברק ראשל\"צ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "איזקסון צבי 3",
+    "City": "ראשון לציון",
+    "PhoneNumber": "055-9570444",
+    "FaxNumber": "036885509",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.9590813,
+      "Longitude": 34.8020886,
+      "Address": "איזקסון צבי 3 , ראשון לציון"
+    }
+  },
+  {
+    "Name": "מוסך אדי באסם מזאוי בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "תל אביב 14",
+    "City": "חיפה",
+    "PhoneNumber": "04-8522368",
+    "FaxNumber": "048526410",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.8254546,
+      "Longitude": 34.9875383,
+      "Address": "תל אביב 14 , חיפה"
+    }
+  },
+  {
+    "Name": "מוסך יחזקאל שלום ורחמים בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "המרכבה 16",
+    "City": "אשקלון",
+    "PhoneNumber": "08-6750561",
+    "FaxNumber": "086751341",
+    "Area": "דרום",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.6670336,
+      "Longitude": 34.5952415,
+      "Address": "המרכבה 16 , אשקלון"
+    }
+  },
+  {
+    "Name": "מ.טבעון קאר בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "יצחק רבין 48 (ת.ד 11",
+    "City": "קריית טבעון",
+    "PhoneNumber": "04-9534413",
+    "FaxNumber": "04-9534259",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.7105128,
+      "Longitude": 35.1156312,
+      "Address": "יצחק רבין 48 (ת.ד 11 , קריית טבעון"
+    }
+  },
+  {
+    "Name": "הילוך שישי אי וי בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "אצל 18",
+    "City": "ראשון לציון",
+    "PhoneNumber": "074-7746600",
+    "FaxNumber": "0747746600",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.0527342,
+      "Longitude": 34.7913404,
+      "Address": "אצל 18 , ראשון לציון"
+    }
+  },
+  {
+    "Name": "און גל בע\"מ - מרכז שרות אקפרס",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "חטיבת גולני 23",
+    "City": "חיפה",
+    "PhoneNumber": "04-8530055",
+    "FaxNumber": "04-8516661",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: אורה",
+    "Location": {
+      "Latitude": 32.8059161,
+      "Longitude": 35.0090296,
+      "Address": "חטיבת גולני 23 , חיפה"
+    }
+  },
+  {
+    "Name": "רפי עמירה ובניו בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "ת.ד 164",
+    "City": "אשקלון",
+    "PhoneNumber": "08-6750304",
+    "FaxNumber": "08-6750301",
+    "Area": "דרום",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.6687885,
+      "Longitude": 34.5742523,
+      "Address": "ת.ד 164 , אשקלון"
+    }
+  },
+  {
+    "Name": "מוסך סרבי שירותי רכב בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "היצירה 8",
+    "City": "אור יהודה",
+    "PhoneNumber": "03-5334675",
+    "FaxNumber": "03-6785006",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.0220373,
+      "Longitude": 34.8631275,
+      "Address": "היצירה 8 , אור יהודה"
+    }
+  },
+  {
+    "Name": "כלמוביל בע\"מ-ראשל\"צ",
+    "Type": "סוג: מוסך מרכזי",
+    "Address": "הסדנה 1",
+    "City": "ראשון לציון",
+    "PhoneNumber": "03-9424242",
+    "FaxNumber": "039612536",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: מיצובישי",
+    "Location": {
+      "Latitude": 31.9730015,
+      "Longitude": 34.7925013,
+      "Address": "הסדנה 1 , ראשון לציון"
+    }
+  },
+  {
+    "Name": "מוסך שיא פוינט בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "ההסתדרות 176",
+    "City": "חיפה",
+    "PhoneNumber": "04-8421017",
+    "FaxNumber": "04-8725473",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.806321,
+      "Longitude": 35.061364,
+      "Address": "ההסתדרות 176 , חיפה"
+    }
+  },
+  {
+    "Name": "קיה צפון - אילן נחימוב בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "ההסתדרות 215",
+    "City": "חיפה",
+    "PhoneNumber": "04-8418608",
+    "FaxNumber": "04-8401699",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: קיה",
+    "Location": {
+      "Latitude": 32.8083003,
+      "Longitude": 35.0664976,
+      "Address": "ההסתדרות 215 , חיפה"
+    }
+  },
+  {
+    "Name": "מוסך אקסקלוסיב (1997) בע,מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "פנחס החוצב 8-9",
+    "City": "באר שבע",
+    "PhoneNumber": "08-6234139",
+    "FaxNumber": "08-6283377",
+    "Area": "דרום",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.2456065,
+      "Longitude": 34.8078575,
+      "Address": "פנחס החוצב 8-9 , באר שבע"
+    }
+  },
+  {
+    "Name": "שפילמן שרותי רכב בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "רבניצקי 7",
+    "City": "פתח תקווה",
+    "PhoneNumber": "074-7150000",
+    "FaxNumber": "0747150085",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: טויוטה",
+    "Location": {
+      "Latitude": 32.103453,
+      "Longitude": 34.891689,
+      "Address": "רבניצקי 7 , פתח תקווה"
+    }
+  },
+  {
+    "Name": "ד\"ר פח וצבע ירושלים (1998) בע\"",
+    "Type": "סוג: מוסך כללי",
+    "Address": "התעשיה 5 מרכז בלליוס",
+    "City": "ירושלים",
+    "PhoneNumber": "02-6732272",
+    "FaxNumber": "02-6726226",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.748272,
+      "Longitude": 35.214519,
+      "Address": "התעשיה 5 מרכז בלליוס , ירושלים"
+    }
+  },
+  {
+    "Name": "דרכים מרכזי שירות לרכב בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "מיטב 4",
+    "City": "תל אביב - יפו",
+    "PhoneNumber": "073-3853334",
+    "FaxNumber": "0773019405",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.065138,
+      "Longitude": 34.7949703,
+      "Address": "מיטב 4 , תל אביב - יפו"
+    }
+  },
+  {
+    "Name": "מ.מ מוסך אקספרס חדרה בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "מייזר יוסף 8",
+    "City": "חדרה",
+    "PhoneNumber": "04-6325653",
+    "FaxNumber": "04-6333716",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.454117,
+      "Longitude": 34.9089112,
+      "Address": "מייזר יוסף 8 , חדרה"
+    }
+  },
+  {
+    "Name": "צ'מפיון מוטורס בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "לח\"י 1",
+    "City": "פתח תקווה",
+    "PhoneNumber": "03-9183400",
+    "FaxNumber": "03-9183429",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: פולקסווגן",
+    "Location": {
+      "Latitude": 32.0739123,
+      "Longitude": 34.8968513,
+      "Address": "לח\"י 1 , פתח תקווה"
+    }
+  },
+  {
+    "Name": "יו.אמ.אי יוניברסל מוטורס ישראל",
+    "Type": "סוג: מוסך מרכזי",
+    "Address": "פלטין נפתלי 5",
+    "City": "ראשון לציון",
+    "PhoneNumber": "03-9534400",
+    "FaxNumber": "039534414",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: איסוזו",
+    "Location": {
+      "Latitude": 31.988287,
+      "Longitude": 34.773068,
+      "Address": "פלטין נפתלי 5 , ראשון לציון"
+    }
+  },
+  {
+    "Name": "הנטרס בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "היובלים 3",
+    "City": "הוד השרון",
+    "PhoneNumber": "053-7267821",
+    "FaxNumber": "099512133",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.1336162,
+      "Longitude": 34.9026796,
+      "Address": "היובלים 3 , הוד השרון"
+    }
+  },
+  {
+    "Name": "מרכז שרות אריה",
+    "Type": "סוג: מוסך כללי",
+    "Address": "החרש 3",
+    "City": "רמת השרון",
+    "PhoneNumber": "03-6041084",
+    "FaxNumber": "03-5468245",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.1370455,
+      "Longitude": 34.8438403,
+      "Address": "החרש 3 , רמת השרון"
+    }
+  },
+  {
+    "Name": "מוסך גולי בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "משה בקר 32",
+    "City": "ראשון לציון",
+    "PhoneNumber": "03-9659395",
+    "FaxNumber": "03-9676581",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.978379,
+      "Longitude": 34.8105114,
+      "Address": "משה בקר 32 , ראשון לציון"
+    }
+  },
+  {
+    "Name": "גולדמוביל קיה מודיעין בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "ת.ד 122",
+    "City": "מודיעין-מכבים-רעו",
+    "PhoneNumber": "08-6606966",
+    "FaxNumber": "0722280793",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.890267,
+      "Longitude": 35.010397,
+      "Address": "ת.ד 122 , מודיעין-מכבים-רעו"
+    }
+  },
+  {
+    "Name": "מרכז שרות לרכב נבעה בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "היצירה 15 א.תעשיה",
+    "City": "רחובות",
+    "PhoneNumber": "08-9470578",
+    "FaxNumber": "08-9468906",
+    "Area": "שפלה",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.887986,
+      "Longitude": 34.7801617,
+      "Address": "היצירה 15 א.תעשיה , רחובות"
+    }
+  },
+  {
+    "Name": "נ.ו.ע.ם קאר לנד בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "היוצר 4 (ת.ד 12627)",
+    "City": "אשדוד",
+    "PhoneNumber": "08-88528666",
+    "FaxNumber": "08-8530930",
+    "Area": "דרום",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.8151366,
+      "Longitude": 34.6689364,
+      "Address": "היוצר 4 (ת.ד 12627) , אשדוד"
+    }
+  },
+  {
+    "Name": "מוסך 2 האומנים ירושלים בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "החרובית 36",
+    "City": "ירושלים",
+    "PhoneNumber": "02-6712347",
+    "FaxNumber": "02-6712348",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.8026521,
+      "Longitude": 35.1539279,
+      "Address": "החרובית 36 , ירושלים"
+    }
+  },
+  {
+    "Name": "שמעון ברזילי מכוניות 1987 בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "ת.ד. 52196",
+    "City": "ירושלים",
+    "PhoneNumber": "02-6499985",
+    "FaxNumber": "02-6797279",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: אלפא",
+    "Location": {
+      "Latitude": 31.768319,
+      "Longitude": 35.21371,
+      "Address": "ת.ד. 52196 , ירושלים"
+    }
+  },
+  {
+    "Name": "הילוך שישי - יפו בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "דרך בן צבי 7",
+    "City": "תל אביב - יפו",
+    "PhoneNumber": "03-6823898",
+    "FaxNumber": "03-6816299",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: דאצ'ה",
+    "Location": {
+      "Latitude": 32.0501424,
+      "Longitude": 34.760233,
+      "Address": "דרך בן צבי 7 , תל אביב - יפו"
+    }
+  },
+  {
+    "Name": "ניסידן נתניה שרותי רכב בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "פנקס 20 א.תעשיה ישן",
+    "City": "נתניה",
+    "PhoneNumber": "09-8877588",
+    "FaxNumber": "09-8616516",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: ניסן",
+    "Location": {
+      "Latitude": 32.319693,
+      "Longitude": 34.8739044,
+      "Address": "פנקס 20 א.תעשיה ישן , נתניה"
+    }
+  },
+  {
+    "Name": "מוסך א.א.לוי אפרים בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "אזור תעשיה דרך יבנה",
+    "City": "רחובות",
+    "PhoneNumber": "08-9460336",
+    "FaxNumber": "08-9462040",
+    "Area": "שפלה",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.896266,
+      "Longitude": 34.736843,
+      "Address": "אזור תעשיה דרך יבנה , רחובות"
+    }
+  },
+  {
+    "Name": "מוסכי דורון מוטורס בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "ת.ד. 13132",
+    "City": "נתניה",
+    "PhoneNumber": "09-8626666",
+    "FaxNumber": "09-8843133",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: פורד",
+    "Location": {
+      "Latitude": 32.321458,
+      "Longitude": 34.853196,
+      "Address": "ת.ד. 13132 , נתניה"
+    }
+  },
+  {
+    "Name": "מוסך מסמיה מ.י. בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "צומת ראם",
+    "City": "גדרה",
+    "PhoneNumber": "050-5232034",
+    "FaxNumber": "088585105",
+    "Area": "דרום",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.8123014,
+      "Longitude": 34.7770192,
+      "Address": "צומת ראם , גדרה"
+    }
+  },
+  {
+    "Name": "מוסך חולי פחחות צבע מכונאות",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "תל אביב 7",
+    "City": "חיפה",
+    "PhoneNumber": "04-8554111",
+    "FaxNumber": "04-8557325",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: סובארו",
+    "Location": {
+      "Latitude": 32.82464,
+      "Longitude": 34.9889398,
+      "Address": "תל אביב 7 , חיפה"
+    }
+  },
+  {
+    "Name": "אילת ציון פחחות וצבע בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "אזור תעשיה",
+    "City": "אילת",
+    "PhoneNumber": "08-6318477",
+    "FaxNumber": "08-6336977",
+    "Area": "אילת",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 29.557669,
+      "Longitude": 34.951925,
+      "Address": "אזור תעשיה , אילת"
+    }
+  },
+  {
+    "Name": "יו.אמ.איי מרכז שירות חיפה בע\"מ",
+    "Type": "סוג: מוסך מרכזי",
+    "Address": "ת.ד. 25066",
+    "City": "חיפה",
+    "PhoneNumber": "04-8417418",
+    "FaxNumber": "04-8414473",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: איסוזו",
+    "Location": {
+      "Latitude": 32.7940463,
+      "Longitude": 34.989571,
+      "Address": "ת.ד. 25066 , חיפה"
+    }
+  },
+  {
+    "Name": "מאיר מרכזי שירות, שותפות",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "חיים שפירא 25 (ת.ד 8",
+    "City": "ראשון לציון",
+    "PhoneNumber": "03-9433666",
+    "FaxNumber": "03-9415360",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: וולוו",
+    "Location": {
+      "Latitude": 31.9905635,
+      "Longitude": 34.7565238,
+      "Address": "חיים שפירא 25 (ת.ד 8 , ראשון לציון"
+    }
+  },
+  {
+    "Name": "מוסך סגול  בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "ת.ד. 6386",
+    "City": "כרמיאל",
+    "PhoneNumber": "04-9980808",
+    "FaxNumber": "04-9884714",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: טויוטה",
+    "Location": {
+      "Latitude": 32.914671,
+      "Longitude": 35.292417,
+      "Address": "ת.ד. 6386 , כרמיאל"
+    }
+  },
+  {
+    "Name": "כלמוביל בע\"מ-ירושלים",
+    "Type": "סוג: מוסך מרכזי",
+    "Address": "הסדנה 1",
+    "City": "ירושלים",
+    "PhoneNumber": "02-6210600",
+    "FaxNumber": "03-9154722",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: מיצובישי",
+    "Location": {
+      "Latitude": 31.7487887,
+      "Longitude": 35.2162636,
+      "Address": "הסדנה 1 , ירושלים"
+    }
+  },
+  {
+    "Name": "מוסך ענק הרכב בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "אזור תעשיה ע\"י המחצב",
+    "City": "נצרת",
+    "PhoneNumber": "04-6552212",
+    "FaxNumber": "04-6452212",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.699635,
+      "Longitude": 35.303546,
+      "Address": "אזור תעשיה ע\"י המחצב , נצרת"
+    }
+  },
+  {
+    "Name": "צמרת מוסך ושרותי רכב",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "שד ההסתדרות 37",
+    "City": "חיפה",
+    "PhoneNumber": "04-8414929",
+    "FaxNumber": "04-8559980",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: סיטרואן",
+    "Location": {
+      "Latitude": 32.7912758,
+      "Longitude": 35.0339494,
+      "Address": "שד ההסתדרות 37 , חיפה"
+    }
+  },
+  {
+    "Name": "ש.ח.מרכז שירות ארצי בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "ת.ד. 10002",
+    "City": "פתח תקווה",
+    "PhoneNumber": "03-9222307",
+    "FaxNumber": "03-9222473",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: ב.מ.וו",
+    "Location": {
+      "Latitude": 32.084041,
+      "Longitude": 34.887762,
+      "Address": "ת.ד. 10002 , פתח תקווה"
+    }
+  },
+  {
+    "Name": "מוסך קשת חדרה",
+    "Type": "סוג: מוסך כללי",
+    "Address": "ת.ד 406",
+    "City": "חדרה",
+    "PhoneNumber": "04-6343257",
+    "FaxNumber": "04-8736018",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.4340458,
+      "Longitude": 34.9196518,
+      "Address": "ת.ד 406 , חדרה"
+    }
+  },
+  {
+    "Name": "מוסך ניסים גנח",
+    "Type": "סוג: מוסך כללי",
+    "Address": "ההגנה 12",
+    "City": "אור יהודה",
+    "PhoneNumber": "03-5331377",
+    "FaxNumber": "03-6340884",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.0330847,
+      "Longitude": 34.8487691,
+      "Address": "ההגנה 12 , אור יהודה"
+    }
+  },
+  {
+    "Name": "צ'מפיון מוטורס בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "לח\"י 1",
+    "City": "ראשון לציון",
+    "PhoneNumber": "073-2080666",
+    "FaxNumber": "0732080580",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: פולקסווגן",
+    "Location": {
+      "Latitude": 31.9867417,
+      "Longitude": 34.7640141,
+      "Address": "לח\"י 1 , ראשון לציון"
+    }
+  },
+  {
+    "Name": "יו.אמ.אי יוניברסל חדרה",
+    "Type": "סוג: מוסך כללי",
+    "Address": "פלטין נפתלי 5",
+    "City": "חדרה",
+    "PhoneNumber": "04-6176597",
+    "FaxNumber": "046176559",
+    "Area": "שרון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: איסוזו",
+    "Location": {
+      "Latitude": 31.988287,
+      "Longitude": 34.773068,
+      "Address": "פלטין נפתלי 5 , חדרה"
+    }
+  },
+  {
+    "Name": "מוסך ליטל  פתח תקווה",
+    "Type": "סוג: מוסך כללי",
+    "Address": "האחים מסלאויטה 8",
+    "City": "פתח תקווה",
+    "PhoneNumber": "03-5622072",
+    "FaxNumber": "03-5622072",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.0675663,
+      "Longitude": 34.7905432,
+      "Address": "האחים מסלאויטה 8 , פתח תקווה"
+    }
+  },
+  {
+    "Name": "מוסך יוניברסל מוטורס פתח תקווה",
+    "Type": "סוג: מוסך כללי",
+    "Address": "פלטין נפתלי 5",
+    "City": "פתח תקווה",
+    "PhoneNumber": "03-9284444",
+    "FaxNumber": "03-9224857",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: איסוזו",
+    "Location": {
+      "Latitude": 31.988287,
+      "Longitude": 34.773068,
+      "Address": "פלטין נפתלי 5 , פתח תקווה"
+    }
+  },
+  {
+    "Name": "איחוד מוסכים 2001 בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "עמל 5",
+    "City": "באר שבע",
+    "PhoneNumber": "053-6358358",
+    "FaxNumber": "086651144",
+    "Area": "דרום",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.2509288,
+      "Longitude": 34.8227806,
+      "Address": "עמל 5 , באר שבע"
+    }
+  },
+  {
+    "Name": "מוסך ח.ח. יפו בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "דרך בן צבי 45",
+    "City": "תל אביב - יפו",
+    "PhoneNumber": "03-6832268",
+    "FaxNumber": "03-6827854",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: פולקסווגן",
+    "Location": {
+      "Latitude": 32.0483333,
+      "Longitude": 34.7652778,
+      "Address": "דרך בן צבי 45 , תל אביב - יפו"
+    }
+  },
+  {
+    "Name": "ממסי-ראשל\"צ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "נחשון 31",
+    "City": "ראשון לציון",
+    "PhoneNumber": "03-5226262",
+    "FaxNumber": "03-5225656",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.9730015,
+      "Longitude": 34.7925013,
+      "Address": "נחשון 31 , ראשון לציון"
+    }
+  },
+  {
+    "Name": "מכשירי תנועה ומכוניות 2004 בע\"",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "איינשטיין 1 ק.מטלון",
+    "City": "חיפה",
+    "PhoneNumber": "04-6648100",
+    "FaxNumber": "04-8511001",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: סוזוקי",
+    "Location": {
+      "Latitude": 32.7832995,
+      "Longitude": 34.9878629,
+      "Address": "איינשטיין 1 ק.מטלון , חיפה"
+    }
+  },
+  {
+    "Name": "מרכז שירות גילון י.מ בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "הכשרת היישוב 17",
+    "City": "ראשון לציון",
+    "PhoneNumber": "03-7353030",
+    "FaxNumber": "03-7353040",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: מיצובישי",
+    "Location": {
+      "Latitude": 31.9914999,
+      "Longitude": 34.7638547,
+      "Address": "הכשרת היישוב 17 , ראשון לציון"
+    }
+  },
+  {
+    "Name": "סנדורי אומן בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "הסדנא 23",
+    "City": "חולון",
+    "PhoneNumber": "03-6813445",
+    "FaxNumber": "03-5186348",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.022727,
+      "Longitude": 34.801665,
+      "Address": "הסדנא 23 , חולון"
+    }
+  },
+  {
+    "Name": "מוסך ענק הרכב בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "אזור תעשיה ע\"י המחצב",
+    "City": "עפולה",
+    "PhoneNumber": "04-6523352",
+    "FaxNumber": "04-6426019",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.610493,
+      "Longitude": 35.287922,
+      "Address": "אזור תעשיה ע\"י המחצב , עפולה"
+    }
+  },
+  {
+    "Name": "מוסך י. שקד בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "ברוך הירש 17",
+    "City": "בני ברק",
+    "PhoneNumber": "03-5707317",
+    "FaxNumber": "03-5701001",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: מיצובישי",
+    "Location": {
+      "Latitude": 32.097616,
+      "Longitude": 34.8263274,
+      "Address": "ברוך הירש 17 , בני ברק"
+    }
+  },
+  {
+    "Name": "קיה נצרת",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "אזור תעשיה חדש",
+    "City": "נצרת",
+    "PhoneNumber": "04-6560206",
+    "FaxNumber": "04-6460577",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: קיה",
+    "Location": {
+      "Latitude": 32.699635,
+      "Longitude": 35.303546,
+      "Address": "אזור תעשיה חדש , נצרת"
+    }
+  },
+  {
+    "Name": "מוסך צמרת",
+    "Type": "סוג: מוסך כללי",
+    "Address": "ת.ד 3820",
+    "City": "קלנסווה",
+    "PhoneNumber": "052-6647655",
+    "FaxNumber": "09-8942301",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.285791,
+      "Longitude": 34.981487,
+      "Address": "ת.ד 3820 , קלנסווה"
+    }
+  },
+  {
+    "Name": "שמיר משאיות בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "הפלדה 5 (ת.ד 971)",
+    "City": "אשדוד",
+    "PhoneNumber": "08-8569777",
+    "FaxNumber": "08-8525263",
+    "Area": "דרום",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.8337288,
+      "Longitude": 34.6770668,
+      "Address": "הפלדה 5 (ת.ד 971) , אשדוד"
+    }
+  },
+  {
+    "Name": "שגריר מערכות -באר שבע",
+    "Type": "סוג: מוסך כללי",
+    "Address": "הנפח 8 (ת.ד 1715) 8",
+    "City": "באר שבע",
+    "PhoneNumber": "073-2288319",
+    "FaxNumber": "08-6238334",
+    "Area": "דרום",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.2212123,
+      "Longitude": 34.8108595,
+      "Address": "הנפח 8 (ת.ד 1715) 8 , באר שבע"
+    }
+  },
+  {
+    "Name": "אייקאר מ.ש.ט בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "אברהם גירון 3",
+    "City": "חיפה",
+    "PhoneNumber": "04-8724304",
+    "FaxNumber": "048724304",
+    "Area": "חיפה",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.7940463,
+      "Longitude": 34.989571,
+      "Address": "אברהם גירון 3 , חיפה"
+    }
+  },
+  {
+    "Name": "בג'וקאר בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "דרך השדה 16",
+    "City": "פרדס חנה-כרכור",
+    "PhoneNumber": "053-4683618",
+    "FaxNumber": "046330119",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.4788667,
+      "Longitude": 34.9792437,
+      "Address": "דרך השדה 16 , פרדס חנה-כרכור"
+    }
+  },
+  {
+    "Name": "א.ד טקסי (2013) בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "לישנסקי 8",
+    "City": "ראשון לציון",
+    "PhoneNumber": "054-3301141",
+    "FaxNumber": "036874083",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.9894057,
+      "Longitude": 34.765432,
+      "Address": "לישנסקי 8 , ראשון לציון"
+    }
+  },
+  {
+    "Name": "מוסך מדינה בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "התעשיה 5",
+    "City": "ירושלים",
+    "PhoneNumber": "02-6732503",
+    "FaxNumber": "02-6732655",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.748272,
+      "Longitude": 35.214519,
+      "Address": "התעשיה 5 , ירושלים"
+    }
+  },
+  {
+    "Name": "ד\"ר פח וצבע חולון בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "פליקס זנדמן 6",
+    "City": "חולון",
+    "PhoneNumber": "03-5566203",
+    "FaxNumber": "03-5595655",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.0221605,
+      "Longitude": 34.7993224,
+      "Address": "פליקס זנדמן 6 , חולון"
+    }
+  },
+  {
+    "Name": "ג'בארין אשרף עסלייה-פחחות וצבע",
+    "Type": "סוג: מוסך כללי",
+    "Address": "עין אלנבי 1",
+    "City": "אום אל-פחם",
+    "PhoneNumber": "04-8229002",
+    "FaxNumber": "04-8228741",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.073768,
+      "Longitude": 34.7655444,
+      "Address": "עין אלנבי 1 , אום אל-פחם"
+    }
+  },
+  {
+    "Name": "מוסך קובי דגן נהריה בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "כלא עכו 6 (ת.ד 83)",
+    "City": "נהרייה",
+    "PhoneNumber": "04-9829129",
+    "FaxNumber": "04-9820462",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.9236675,
+      "Longitude": 35.0697001,
+      "Address": "כלא עכו 6 (ת.ד 83) , נהרייה"
+    }
+  },
+  {
+    "Name": "רלקס הנדסה (1996) בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "צומת הנמל (ת.ד 304)",
+    "City": "אשדוד",
+    "PhoneNumber": "08-88522470",
+    "FaxNumber": "08-8563675",
+    "Area": "דרום",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: טויוטה",
+    "Location": {
+      "Latitude": 31.827606,
+      "Longitude": 34.670753,
+      "Address": "צומת הנמל (ת.ד 304) , אשדוד"
+    }
+  },
+  {
+    "Name": "שרותי מוסך יוסי כהן בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "הבושם 10",
+    "City": "אשדוד",
+    "PhoneNumber": "08-8638634",
+    "FaxNumber": "08-8569721",
+    "Area": "דרום",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: אורה",
+    "Location": {
+      "Latitude": 31.8198014,
+      "Longitude": 34.6640067,
+      "Address": "הבושם 10 , אשדוד"
+    }
+  },
+  {
+    "Name": "מוסך ציפורי בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "ת.ד 2318",
+    "City": "נוף הגליל",
+    "PhoneNumber": "04-6572222",
+    "FaxNumber": "04-6553264",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: סיטרואן",
+    "Location": {
+      "Latitude": 32.711539,
+      "Longitude": 35.324812,
+      "Address": "ת.ד 2318 , נוף הגליל"
+    }
+  },
+  {
+    "Name": "הילוך שישי - ראשל\"צ בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "פלוטיצקי א.ת ישן 16",
+    "City": "ראשון לציון",
+    "PhoneNumber": "03-9692011",
+    "FaxNumber": "03-9661684",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: מיצובישי",
+    "Location": {
+      "Latitude": 31.9817259,
+      "Longitude": 34.8118105,
+      "Address": "פלוטיצקי א.ת ישן 16 , ראשון לציון"
+    }
+  },
+  {
+    "Name": "מאיר אהרון  מרכז שרות",
+    "Type": "סוג: מוסך מרכזי",
+    "Address": "חיים שפירא 25 (ת.ד 8",
+    "City": "רעננה",
+    "PhoneNumber": "09-7628702",
+    "FaxNumber": "09-7438240",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: וולוו",
+    "Location": {
+      "Latitude": 32.184781,
+      "Longitude": 34.871326,
+      "Address": "חיים שפירא 25 (ת.ד 8 , רעננה"
+    }
+  },
+  {
+    "Name": "אבי - מרכז שרות ירושלים בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "יעקב אליאב 4",
+    "City": "ירושלים",
+    "PhoneNumber": "02-6743333",
+    "FaxNumber": "02-6743334",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: פולקסווגן",
+    "Location": {
+      "Latitude": 31.7943862,
+      "Longitude": 35.1878028,
+      "Address": "יעקב אליאב 4 , ירושלים"
+    }
+  },
+  {
+    "Name": "ב.ג מוסכים 2000 בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "בית אלפא 6",
+    "City": "תל אביב - יפו",
+    "PhoneNumber": "03-5374011",
+    "FaxNumber": "03-5374012",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: סיטרואן",
+    "Location": {
+      "Latitude": 32.065573,
+      "Longitude": 34.7881557,
+      "Address": "בית אלפא 6 , תל אביב - יפו"
+    }
+  },
+  {
+    "Name": "החברים שירותי רכב בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "ת.ד 4017",
+    "City": "כפר קאסם",
+    "PhoneNumber": "03-9369130",
+    "FaxNumber": "03-9361546",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.114093,
+      "Longitude": 34.972767,
+      "Address": "ת.ד 4017 , כפר קאסם"
+    }
+  },
+  {
+    "Name": "מכשירי תנועה סוזוקי ירושלים",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "איינשטיין 1 ק.מטלון",
+    "City": "ירושלים",
+    "PhoneNumber": "02-5911112",
+    "FaxNumber": "02-5911112",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: סוזוקי",
+    "Location": {
+      "Latitude": 32.0919105,
+      "Longitude": 34.8539044,
+      "Address": "איינשטיין 1 ק.מטלון , ירושלים"
+    }
+  },
+  {
+    "Name": "מוסך מנסור",
+    "Type": "סוג: מוסך כללי",
+    "Address": "אבתאן זמר",
+    "City": "זמר",
+    "PhoneNumber": "050-8570617",
+    "FaxNumber": "097731565",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 0.0,
+      "Longitude": 0.0,
+      "Address": "אבתאן זמר , זמר"
+    }
+  },
+  {
+    "Name": "ניאו מוטורס בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "התדהר 11 (ת.ד 2249)",
+    "City": "רעננה",
+    "PhoneNumber": "09-7478900",
+    "FaxNumber": "09-7478905",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: טויוטה",
+    "Location": {
+      "Latitude": 32.195317,
+      "Longitude": 34.884193,
+      "Address": "התדהר 11 (ת.ד 2249) , רעננה"
+    }
+  },
+  {
+    "Name": "המרכב-איציק חי",
+    "Type": "סוג: מוסך כללי",
+    "Address": "בעלי המלאכה (ת.ד 275",
+    "City": "ירושלים",
+    "PhoneNumber": "02-6782224",
+    "FaxNumber": "02-6782224",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.748338,
+      "Longitude": 35.20972,
+      "Address": "בעלי המלאכה (ת.ד 275 , ירושלים"
+    }
+  },
+  {
+    "Name": "מוסך אלאמאני טמרה בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "ת.ד 942",
+    "City": "טמרה",
+    "PhoneNumber": "054-5505860",
+    "FaxNumber": "04-9940249",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.852247,
+      "Longitude": 35.201315,
+      "Address": "ת.ד 942 , טמרה"
+    }
+  },
+  {
+    "Name": "טוריג ליין בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "הרב דנגור 34",
+    "City": "בני ברק",
+    "PhoneNumber": "03-6160077",
+    "FaxNumber": "03-6160660",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.0982387,
+      "Longitude": 34.8304494,
+      "Address": "הרב דנגור 34 , בני ברק"
+    }
+  },
+  {
+    "Name": "א.עתידים מוסכים בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "הקישון 23-25",
+    "City": "בני ברק",
+    "PhoneNumber": "03-5782226",
+    "FaxNumber": "03-5700078",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: יונדאי",
+    "Location": {
+      "Latitude": 32.0994473,
+      "Longitude": 34.8321179,
+      "Address": "הקישון 23-25 , בני ברק"
+    }
+  },
+  {
+    "Name": "מוסך עוז(אלי ובניו) בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "אופיר (חוף שמן) 31",
+    "City": "חיפה",
+    "PhoneNumber": "04-8676333",
+    "FaxNumber": "04-8666514",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: פולקסווגן",
+    "Location": {
+      "Latitude": 32.806549,
+      "Longitude": 35.016773,
+      "Address": "אופיר (חוף שמן) 31 , חיפה"
+    }
+  },
+  {
+    "Name": "מוסך קרית הרכב אסולין",
+    "Type": "סוג: מוסך כללי",
+    "Address": "יצחק נפחא 406",
+    "City": "באר שבע",
+    "PhoneNumber": "08-6655555",
+    "FaxNumber": "08-6280098",
+    "Area": "דרום",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.2520338,
+      "Longitude": 34.8123748,
+      "Address": "יצחק נפחא 406 , באר שבע"
+    }
+  },
+  {
+    "Name": "בכור כהן מוטורס בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "ההגנה 18",
+    "City": "אור יהודה",
+    "PhoneNumber": "03-6344040",
+    "FaxNumber": "03-6344050",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: טויוטה",
+    "Location": {
+      "Latitude": 32.0327358,
+      "Longitude": 34.8499256,
+      "Address": "ההגנה 18 , אור יהודה"
+    }
+  },
+  {
+    "Name": "הילוך שישי - יפו בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "דרך בן צבי 7",
+    "City": "תל אביב - יפו",
+    "PhoneNumber": "072-2214455",
+    "FaxNumber": "03-5622040",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: הרשומים",
+    "Location": {
+      "Latitude": 32.0501424,
+      "Longitude": 34.760233,
+      "Address": "דרך בן צבי 7 , תל אביב - יפו"
+    }
+  },
+  {
+    "Name": "מוסך אמיל ערד בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "סדן 1",
+    "City": "ערד",
+    "PhoneNumber": "050-7908568",
+    "FaxNumber": "089300192",
+    "Area": "דרום",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.248362,
+      "Longitude": 35.192973,
+      "Address": "סדן 1 , ערד"
+    }
+  },
+  {
+    "Name": "מוסך מוניטין",
+    "Type": "סוג: מוסך כללי",
+    "Address": "פנחס החוצב 7",
+    "City": "באר שבע",
+    "PhoneNumber": "08-6289959",
+    "FaxNumber": "086289958",
+    "Area": "דרום",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.2455934,
+      "Longitude": 34.8078124,
+      "Address": "פנחס החוצב 7 , באר שבע"
+    }
+  },
+  {
+    "Name": "נ.ז. ערן שרותי רכב בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "האומן 22",
+    "City": "ירושלים",
+    "PhoneNumber": "02-6793555",
+    "FaxNumber": "02-6791834",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.7514815,
+      "Longitude": 35.208104,
+      "Address": "האומן 22 , ירושלים"
+    }
+  },
+  {
+    "Name": "השמונה מוטורס פ.צ בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "ת.ד 634",
+    "City": "קריית שמונה",
+    "PhoneNumber": "04-6275663",
+    "FaxNumber": "04-6275664",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 33.207933,
+      "Longitude": 35.570246,
+      "Address": "ת.ד 634 , קריית שמונה"
+    }
+  },
+  {
+    "Name": "מוסך יוסי כהן פחחות וצבע בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "ישראל בק 12",
+    "City": "תל אביב - יפו",
+    "PhoneNumber": "03-5615831",
+    "FaxNumber": "03-5618373",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.0682963,
+      "Longitude": 34.7890099,
+      "Address": "ישראל בק 12 , תל אביב - יפו"
+    }
+  },
+  {
+    "Name": "ד\"ר פח וצבע בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "הנגב 16",
+    "City": "יהוד-מונוסון",
+    "PhoneNumber": "03-6434349",
+    "FaxNumber": "03-6878833",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.0315718,
+      "Longitude": 34.8925712,
+      "Address": "הנגב 16 , יהוד-מונוסון"
+    }
+  },
+  {
+    "Name": "ע.י.ר עפולה מוטורס",
+    "Type": "סוג: מוסך כללי",
+    "Address": "קדרון 1",
+    "City": "עפולה",
+    "PhoneNumber": "04-6093000",
+    "FaxNumber": "04-6403377",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.606847,
+      "Longitude": 35.298866,
+      "Address": "קדרון 1 , עפולה"
+    }
+  },
+  {
+    "Name": "שרה מוסך דני - שפיר רונן",
+    "Type": "סוג: מוסך כללי",
+    "Address": "דרך השרון 98",
+    "City": "הוד השרון",
+    "PhoneNumber": "09-7401097",
+    "FaxNumber": "09-7463190",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.1735168,
+      "Longitude": 34.8930307,
+      "Address": "דרך השרון 98 , הוד השרון"
+    }
+  },
+  {
+    "Name": "מוסך רמ\"ר בע\"מ שרות מוסמך פיזו",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "המרכבה א.ת.צפוני 15",
+    "City": "אשקלון",
+    "PhoneNumber": "08-6759995",
+    "FaxNumber": "08-6759912",
+    "Area": "דרום",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: סיטרואן",
+    "Location": {
+      "Latitude": 31.6687885,
+      "Longitude": 34.5742523,
+      "Address": "המרכבה א.ת.צפוני 15 , אשקלון"
+    }
+  },
+  {
+    "Name": "מוסך עמל בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "ישראל ב\"ק  26",
+    "City": "תל אביב - יפו",
+    "PhoneNumber": "03-5622256",
+    "FaxNumber": "03-5626677",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: פורד",
+    "Location": {
+      "Latitude": 32.0682238,
+      "Longitude": 34.7906369,
+      "Address": "ישראל ב\"ק  26 , תל אביב - יפו"
+    }
+  },
+  {
+    "Name": "אוטו רן בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "ת.ד. 2158",
+    "City": "רעננה",
+    "PhoneNumber": "09-7415888",
+    "FaxNumber": "09-7403880",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: מיצובישי",
+    "Location": {
+      "Latitude": 32.184781,
+      "Longitude": 34.871326,
+      "Address": "ת.ד. 2158 , רעננה"
+    }
+  },
+  {
+    "Name": "מרכז שירות עד רעננה (1997) בע\"",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "השיזף ת.ד. 2364 5",
+    "City": "רעננה",
+    "PhoneNumber": "09-7433996",
+    "FaxNumber": "09-7469011",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: מאזדה",
+    "Location": {
+      "Latitude": 32.1929422,
+      "Longitude": 34.8851232,
+      "Address": "השיזף ת.ד. 2364 5 , רעננה"
+    }
+  },
+  {
+    "Name": "טלקאר חברה בע\"מ",
+    "Type": "סוג: מוסך מרכזי",
+    "Address": "התגלית 1",
+    "City": "ראשון לציון",
+    "PhoneNumber": "03-6534600",
+    "FaxNumber": "03-5599537",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: סרס EV3",
+    "Location": {
+      "Latitude": 31.9504407,
+      "Longitude": 34.7616076,
+      "Address": "התגלית 1 , ראשון לציון"
+    }
+  },
+  {
+    "Name": "נירון מוטורס בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "צה\"ל 46",
+    "City": "חדרה",
+    "PhoneNumber": "04-6334591",
+    "FaxNumber": "04-6332908",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: מיצובישי",
+    "Location": {
+      "Latitude": 32.4403054,
+      "Longitude": 34.9314514,
+      "Address": "צה\"ל 46 , חדרה"
+    }
+  },
+  {
+    "Name": "מוסך אדיב א ארמוזה בעמ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "הריקמה 7 רוממה",
+    "City": "ירושלים",
+    "PhoneNumber": "02-5380340",
+    "FaxNumber": "02-5383472",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: פורד",
+    "Location": {
+      "Latitude": 31.7918542,
+      "Longitude": 35.2022799,
+      "Address": "הריקמה 7 רוממה , ירושלים"
+    }
+  },
+  {
+    "Name": "רכב הנגב רחובות 2001 בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "ת.ד. 65",
+    "City": "קריית עקרון",
+    "PhoneNumber": "08-9416223",
+    "FaxNumber": "08-9416225",
+    "Area": "שפלה",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: פולקסווגן",
+    "Location": {
+      "Latitude": 31.862547,
+      "Longitude": 34.8219576,
+      "Address": "ת.ד. 65 , קריית עקרון"
+    }
+  },
+  {
+    "Name": "מוסך קרל בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "היצירה 23",
+    "City": "רמת גן",
+    "PhoneNumber": "03-7515451",
+    "FaxNumber": "03-7523381",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: קיה",
+    "Location": {
+      "Latitude": 32.0864459,
+      "Longitude": 34.8018981,
+      "Address": "היצירה 23 , רמת גן"
+    }
+  },
+  {
+    "Name": "קרסו מרכזי ראשל\"צ",
+    "Type": "סוג: מוסך מרכזי",
+    "Address": "ת.ד. 90 לידי מרי חיי",
+    "City": "ראשון לציון",
+    "PhoneNumber": "03-9535353",
+    "FaxNumber": "03-7163175",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: ניסן",
+    "Location": {
+      "Latitude": 31.9730015,
+      "Longitude": 34.7925013,
+      "Address": "ת.ד. 90 לידי מרי חיי , ראשון לציון"
+    }
+  },
+  {
+    "Name": "י. קארו שרותי פחחות וצבע בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "גינצבורג 8",
+    "City": "ראשון לציון",
+    "PhoneNumber": "03-5582121",
+    "FaxNumber": "03-5580404",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.9906373,
+      "Longitude": 34.7688309,
+      "Address": "גינצבורג 8 , ראשון לציון"
+    }
+  },
+  {
+    "Name": "מוסך בסון אילן מודיעין בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "המכונאי אזור המלאכה",
+    "City": "מודיעין-מכבים-רעו",
+    "PhoneNumber": "08-9799970",
+    "FaxNumber": "08-9799980",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: סוזוקי",
+    "Location": {
+      "Latitude": 31.8860352,
+      "Longitude": 34.9594646,
+      "Address": "המכונאי אזור המלאכה , מודיעין-מכבים-רעו"
+    }
+  },
+  {
+    "Name": "מוסך הבירה בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "צרת 7",
+    "City": "ירושלים",
+    "PhoneNumber": "02-6783770",
+    "FaxNumber": "02-6793396",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: ב.מ.וו",
+    "Location": {
+      "Latitude": 31.7525744,
+      "Longitude": 35.2119523,
+      "Address": "צרת 7 , ירושלים"
+    }
+  },
+  {
+    "Name": "מוסך טיל",
+    "Type": "סוג: מוסך כללי",
+    "Address": "שונצינו 21",
+    "City": "תל אביב - יפו",
+    "PhoneNumber": "03-5621388",
+    "FaxNumber": "03-5621885",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.0677983,
+      "Longitude": 34.7879242,
+      "Address": "שונצינו 21 , תל אביב - יפו"
+    }
+  },
+  {
+    "Name": "מוסך שלי דוד בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "פלוטיצקי 9  א.ת.ישן",
+    "City": "ראשון לציון",
+    "PhoneNumber": "03-9671597",
+    "FaxNumber": "03-9504046",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.9821877,
+      "Longitude": 34.8121623,
+      "Address": "פלוטיצקי 9  א.ת.ישן , ראשון לציון"
+    }
+  },
+  {
+    "Name": "טויוטה רחובות בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "נחושתן 15",
+    "City": "רחובות",
+    "PhoneNumber": "08-9475080",
+    "FaxNumber": "08-6354060",
+    "Area": "שפלה",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: טויוטה",
+    "Location": {
+      "Latitude": 31.8879919,
+      "Longitude": 34.7835775,
+      "Address": "נחושתן 15 , רחובות"
+    }
+  },
+  {
+    "Name": "נירון מוטורס פתח תקווה בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "חיים גרינברג 5",
+    "City": "פתח תקווה",
+    "PhoneNumber": "050-2003011",
+    "FaxNumber": "036946720",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.1035686,
+      "Longitude": 34.8927364,
+      "Address": "חיים גרינברג 5 , פתח תקווה"
+    }
+  },
+  {
+    "Name": "מוסך ליה בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "הפלד 40",
+    "City": "חולון",
+    "PhoneNumber": "052-3556558",
+    "FaxNumber": "037267308",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.0201343,
+      "Longitude": 34.7998143,
+      "Address": "הפלד 40 , חולון"
+    }
+  },
+  {
+    "Name": "שגריר מערכות - תל אביב",
+    "Type": "סוג: מוסך כללי",
+    "Address": "הנפח 8 (ת.ד 1715) 8",
+    "City": "תל אביב - יפו",
+    "PhoneNumber": "03-6128303",
+    "FaxNumber": "03-6128905",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.019247,
+      "Longitude": 34.7972723,
+      "Address": "הנפח 8 (ת.ד 1715) 8 , תל אביב - יפו"
+    }
+  },
+  {
+    "Name": "מרכז שרות חוף שמן חיפה בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "אופיר 62",
+    "City": "חיפה",
+    "PhoneNumber": "04-8603222",
+    "FaxNumber": "04-8603228",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: פולקסווגן",
+    "Location": {
+      "Latitude": 32.804717,
+      "Longitude": 35.019604,
+      "Address": "אופיר 62 , חיפה"
+    }
+  },
+  {
+    "Name": "גלוסקא שירותי רכב בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "המרכבה 6 (ת.ד 1777)",
+    "City": "חולון",
+    "PhoneNumber": "03-5702535",
+    "FaxNumber": "035702535",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.01503,
+      "Longitude": 34.808327,
+      "Address": "המרכבה 6 (ת.ד 1777) , חולון"
+    }
+  },
+  {
+    "Name": "הילוך שישי מערב ראשון בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "משה שרת 23",
+    "City": "ראשון לציון",
+    "PhoneNumber": "053-7530070",
+    "FaxNumber": "0779708216",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: קיה",
+    "Location": {
+      "Latitude": 31.9934393,
+      "Longitude": 34.7551943,
+      "Address": "משה שרת 23 , ראשון לציון"
+    }
+  },
+  {
+    "Name": "מוסך מיכאל גולדברט בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "מקלף 32",
+    "City": "חיפה",
+    "PhoneNumber": "04-8411362",
+    "FaxNumber": "04-8426062",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.7868169,
+      "Longitude": 35.0322059,
+      "Address": "מקלף 32 , חיפה"
+    }
+  },
+  {
+    "Name": "דני סמרלי הוד השרון (1997)בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "המסגר 9",
+    "City": "הוד השרון",
+    "PhoneNumber": "09-7402140",
+    "FaxNumber": "09-7402033",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.1320423,
+      "Longitude": 34.8960573,
+      "Address": "המסגר 9 , הוד השרון"
+    }
+  },
+  {
+    "Name": "אלון שירותי רכב - טובי בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "המסילה 3, ת.ד 478",
+    "City": "נשר",
+    "PhoneNumber": "04-8491647",
+    "FaxNumber": "04-8491561",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.7842988,
+      "Longitude": 35.0338374,
+      "Address": "המסילה 3, ת.ד 478 , נשר"
+    }
+  },
+  {
+    "Name": "פרס רכב השפלה בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "התקווה 6",
+    "City": "רמלה",
+    "PhoneNumber": "073-2707070",
+    "FaxNumber": "0732707021",
+    "Area": "שפלה",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: טויוטה",
+    "Location": {
+      "Latitude": 31.92923,
+      "Longitude": 34.8823322,
+      "Address": "התקווה 6 , רמלה"
+    }
+  },
+  {
+    "Name": "אוטו נע סנטר (2006) בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "ת.ד. 21047 בנין פאוא",
+    "City": "נוף הגליל",
+    "PhoneNumber": "04-6084447",
+    "FaxNumber": "04-6001169",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.711539,
+      "Longitude": 35.324812,
+      "Address": "ת.ד. 21047 בנין פאוא , נוף הגליל"
+    }
+  },
+  {
+    "Name": "שגריר מערכות - חולון",
+    "Type": "סוג: מוסך כללי",
+    "Address": "הנפח 8 (ת.ד 1715) 8",
+    "City": "חולון",
+    "PhoneNumber": "03-5588428",
+    "FaxNumber": "03-6500566",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.019247,
+      "Longitude": 34.7972723,
+      "Address": "הנפח 8 (ת.ד 1715) 8 , חולון"
+    }
+  },
+  {
+    "Name": "חיים פחחות כללית וישור שלדה",
+    "Type": "סוג: מוסך כללי",
+    "Address": "יצחק שדה 33",
+    "City": "תל אביב - יפו",
+    "PhoneNumber": "03-5622165",
+    "FaxNumber": "03-5239149",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.0651877,
+      "Longitude": 34.7882979,
+      "Address": "יצחק שדה 33 , תל אביב - יפו"
+    }
+  },
+  {
+    "Name": "מרכז שירות מרום הרצליה בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "מדינת היהודים 66",
+    "City": "הרצליה",
+    "PhoneNumber": "09-9581355",
+    "FaxNumber": "09-9581334",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: קיה",
+    "Location": {
+      "Latitude": 32.1651846,
+      "Longitude": 34.8121924,
+      "Address": "מדינת היהודים 66 , הרצליה"
+    }
+  },
+  {
+    "Name": "לקס מוטורס בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "שמשון 9",
+    "City": "פתח תקווה",
+    "PhoneNumber": "03-7613333",
+    "FaxNumber": "03-7613312",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: לקסוס",
+    "Location": {
+      "Latitude": 32.0947941,
+      "Longitude": 34.8631755,
+      "Address": "שמשון 9 , פתח תקווה"
+    }
+  },
+  {
+    "Name": "ירון גרינשטיין פחחות וצבע לרכב",
+    "Type": "סוג: מוסך כללי",
+    "Address": "התעשייה 23",
+    "City": "חיפה",
+    "PhoneNumber": "04-82103897",
+    "FaxNumber": "04-8210749",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.7749213,
+      "Longitude": 35.0446601,
+      "Address": "התעשייה 23 , חיפה"
+    }
+  },
+  {
+    "Name": "ארי שירותים וניהול בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "המסגר 11",
+    "City": "הוד השרון",
+    "PhoneNumber": "052-5011341",
+    "FaxNumber": "0733678291",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: מעל 3.5  טון ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.1319625,
+      "Longitude": 34.8958212,
+      "Address": "המסגר 11 , הוד השרון"
+    }
+  },
+  {
+    "Name": "מוסך אבו יוסף",
+    "Type": "סוג: מוסך כללי",
+    "Address": "אזור תעשייה",
+    "City": "באקה אל-גרביה",
+    "PhoneNumber": "050-2555317",
+    "FaxNumber": "048113622",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.402905,
+      "Longitude": 35.048916,
+      "Address": "אזור תעשייה , באקה אל-גרביה"
+    }
+  },
+  {
+    "Name": "מוסך מתי מזרחי ובניו פחחות וצב",
+    "Type": "סוג: מוסך כללי",
+    "Address": "ב\"ק ישראל 39",
+    "City": "תל אביב - יפו",
+    "PhoneNumber": "03-5614566",
+    "FaxNumber": "03-5614564",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.0682391,
+      "Longitude": 34.7915627,
+      "Address": "ב\"ק ישראל 39 , תל אביב - יפו"
+    }
+  },
+  {
+    "Name": "מוסך אבי זליג בע\"מ-גבעת שאול",
+    "Type": "סוג: מוסך כללי",
+    "Address": "בית היוצר 17 (ת.ד 81",
+    "City": "ירושלים",
+    "PhoneNumber": "02-6790033",
+    "FaxNumber": "02-5471123",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.7467228,
+      "Longitude": 35.2118188,
+      "Address": "בית היוצר 17 (ת.ד 81 , ירושלים"
+    }
+  },
+  {
+    "Name": "קרסו מוטורס בע\"מ",
+    "Type": "סוג: מוסך מרכזי",
+    "Address": "ת.ד. 90 לידי מרי חיי",
+    "City": "ירושלים",
+    "PhoneNumber": "02-6793111",
+    "FaxNumber": "02-5335100",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: הרשומים",
+    "Location": {
+      "Latitude": 31.768319,
+      "Longitude": 35.21371,
+      "Address": "ת.ד. 90 לידי מרי חיי , ירושלים"
+    }
+  },
+  {
+    "Name": "מוסך סאלח אמון בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "החרושת 31 (ת.ד 6342)",
+    "City": "כרמיאל",
+    "PhoneNumber": "04-9881008",
+    "FaxNumber": "04-9885015",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.922985,
+      "Longitude": 35.3137959,
+      "Address": "החרושת 31 (ת.ד 6342) , כרמיאל"
+    }
+  },
+  {
+    "Name": "מוסך אבי זליג בע\"מ-תלפיות",
+    "Type": "סוג: מוסך כללי",
+    "Address": "בית היוצר 17 (ת.ד 81",
+    "City": "ירושלים",
+    "PhoneNumber": "02-6790033",
+    "FaxNumber": "02-6796708",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.7467228,
+      "Longitude": 35.2118188,
+      "Address": "בית היוצר 17 (ת.ד 81 , ירושלים"
+    }
+  },
+  {
+    "Name": "מוסך מ.ת.מ מוטורס בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "ת.ד 15002",
+    "City": "חיפה",
+    "PhoneNumber": "04-48550550",
+    "FaxNumber": "04-8559820",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.7940463,
+      "Longitude": 34.989571,
+      "Address": "ת.ד 15002 , חיפה"
+    }
+  },
+  {
+    "Name": "דורי סוכנויות רכב בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "שבזי 10",
+    "City": "יהוד-מונוסון",
+    "PhoneNumber": "03-5363153",
+    "FaxNumber": "03-6320039",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.0282065,
+      "Longitude": 34.8946971,
+      "Address": "שבזי 10 , יהוד-מונוסון"
+    }
+  },
+  {
+    "Name": "כלמוביל בע\"מ-חיפה",
+    "Type": "סוג: מוסך מרכזי",
+    "Address": "הסדנה 1",
+    "City": "חיפה",
+    "PhoneNumber": "04-8614111",
+    "FaxNumber": "03-9154756",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: מיצובישי",
+    "Location": {
+      "Latitude": 32.7886216,
+      "Longitude": 35.0301237,
+      "Address": "הסדנה 1 , חיפה"
+    }
+  },
+  {
+    "Name": "האומן המומחים לרכב בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "ב' הרכבים 7",
+    "City": "ירושלים",
+    "PhoneNumber": "02-6781096",
+    "FaxNumber": "02-6797747",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.7530805,
+      "Longitude": 35.2125225,
+      "Address": "ב' הרכבים 7 , ירושלים"
+    }
+  },
+  {
+    "Name": "מוסך האחים קצב בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "הבנאי 24",
+    "City": "חולון",
+    "PhoneNumber": "03-5508621",
+    "FaxNumber": "03-5567301",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: טויוטה",
+    "Location": {
+      "Latitude": 32.0143643,
+      "Longitude": 34.8036969,
+      "Address": "הבנאי 24 , חולון"
+    }
+  },
+  {
+    "Name": "מוסך רם עפולה בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "המלאכה 10",
+    "City": "עפולה",
+    "PhoneNumber": "053-3678552",
+    "FaxNumber": "04-6424738",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.6050814,
+      "Longitude": 35.2943523,
+      "Address": "המלאכה 10 , עפולה"
+    }
+  },
+  {
+    "Name": "קרסו אקספרס ת\"א",
+    "Type": "סוג: מוסך מרכזי",
+    "Address": "ת.ד. 90 לידי מרי חיי",
+    "City": "תל אביב - יפו",
+    "PhoneNumber": "03-6381100",
+    "FaxNumber": "03-7163175",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: ניסן",
+    "Location": {
+      "Latitude": 32.0852999,
+      "Longitude": 34.7817676,
+      "Address": "ת.ד. 90 לידי מרי חיי , תל אביב - יפו"
+    }
+  },
+  {
+    "Name": "פארק הרכב גבי",
+    "Type": "סוג: מוסך כללי",
+    "Address": "ת.ד. 5935",
+    "City": "באר שבע",
+    "PhoneNumber": "08-6900885",
+    "FaxNumber": "08-6900887",
+    "Area": "דרום",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.252973,
+      "Longitude": 34.791462,
+      "Address": "ת.ד. 5935 , באר שבע"
+    }
+  },
+  {
+    "Name": "מוסך מינו ברדה 1989 בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "היוגב 2",
+    "City": "חולון",
+    "PhoneNumber": "03-5508313",
+    "FaxNumber": "03-5595893",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.0138147,
+      "Longitude": 34.8047333,
+      "Address": "היוגב 2 , חולון"
+    }
+  },
+  {
+    "Name": "מוסכי ניסים ארביב בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "שכטרמן 12",
+    "City": "נתניה",
+    "PhoneNumber": "09-8845966",
+    "FaxNumber": "09-8626512",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: איסוזו",
+    "Location": {
+      "Latitude": 32.320029,
+      "Longitude": 34.8754661,
+      "Address": "שכטרמן 12 , נתניה"
+    }
+  },
+  {
+    "Name": "שגריר מערכות - רעננה",
+    "Type": "סוג: מוסך כללי",
+    "Address": "הנפח 8 (ת.ד 1715) 8",
+    "City": "רעננה",
+    "PhoneNumber": "09-7446814",
+    "FaxNumber": "09-7446815",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.019247,
+      "Longitude": 34.7972723,
+      "Address": "הנפח 8 (ת.ד 1715) 8 , רעננה"
+    }
+  },
+  {
+    "Name": "מוסכי גיורא בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "מבוא סיוון 10",
+    "City": "קריית גת",
+    "PhoneNumber": "08-6883725",
+    "FaxNumber": "08-6883729",
+    "Area": "דרום",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.6047562,
+      "Longitude": 34.7839282,
+      "Address": "מבוא סיוון 10 , קריית גת"
+    }
+  },
+  {
+    "Name": "ד.ס כרמיאל מוטורס",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "שחם 8",
+    "City": "כרמיאל",
+    "PhoneNumber": "04-9983256",
+    "FaxNumber": "04-9984274",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: יונדאי",
+    "Location": {
+      "Latitude": 32.920687,
+      "Longitude": 35.3353593,
+      "Address": "שחם 8 , כרמיאל"
+    }
+  },
+  {
+    "Name": "אוטו גיל ע.י.א שירותי רכב בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "ת.ד 123",
+    "City": "קריית עקרון",
+    "PhoneNumber": "050-5321953",
+    "FaxNumber": "08-6878025",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: סוזוקי",
+    "Location": {
+      "Latitude": 31.862547,
+      "Longitude": 34.8219576,
+      "Address": "ת.ד 123 , קריית עקרון"
+    }
+  },
+  {
+    "Name": "ח.מ חולון מוטורס (2010) בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "האורגים 11",
+    "City": "חולון",
+    "PhoneNumber": "03-6534900",
+    "FaxNumber": "03-6534901",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.0115422,
+      "Longitude": 34.7996668,
+      "Address": "האורגים 11 , חולון"
+    }
+  },
+  {
+    "Name": "מוסך פחחות המומחים ח.א עפולה ב",
+    "Type": "סוג: מוסך כללי",
+    "Address": "חרוד 4",
+    "City": "עפולה",
+    "PhoneNumber": "04-6432577",
+    "FaxNumber": "04-6432577",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.606368,
+      "Longitude": 35.3003055,
+      "Address": "חרוד 4 , עפולה"
+    }
+  },
+  {
+    "Name": "מוסך המגדל גראיסי עאיד ובניו ב",
+    "Type": "סוג: מוסך כללי",
+    "Address": "א.ת נצרת",
+    "City": "נצרת",
+    "PhoneNumber": "052-4404363",
+    "FaxNumber": "046562231",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.699635,
+      "Longitude": 35.303546,
+      "Address": "א.ת נצרת , נצרת"
+    }
+  },
+  {
+    "Name": "מרכז שירות א.עבד ובניו בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "העבודה 12/11",
+    "City": "נוף הגליל",
+    "PhoneNumber": "053-5309383",
+    "FaxNumber": "046470495",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.7138695,
+      "Longitude": 35.3346728,
+      "Address": "העבודה 12/11 , נוף הגליל"
+    }
+  },
+  {
+    "Name": "מוסך אלאמאנה בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "ת.ד 2635",
+    "City": "אום אל-פחם",
+    "PhoneNumber": "04-6110441",
+    "FaxNumber": "04-6112488",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.517127,
+      "Longitude": 35.148529,
+      "Address": "ת.ד 2635 , אום אל-פחם"
+    }
+  },
+  {
+    "Name": "מוסך אבי זליג בע\"מ-מודיעין",
+    "Type": "סוג: מוסך כללי",
+    "Address": "בית היוצר 17 (ת.ד 81",
+    "City": "מודיעין-מכבים-רעו",
+    "PhoneNumber": "02-6790033",
+    "FaxNumber": "08-9728010",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.890267,
+      "Longitude": 35.010397,
+      "Address": "בית היוצר 17 (ת.ד 81 , מודיעין-מכבים-רעו"
+    }
+  },
+  {
+    "Name": "שגריר מערכות - נתניה",
+    "Type": "סוג: מוסך כללי",
+    "Address": "הנפח 8 (ת.ד 1715) 8",
+    "City": "נתניה",
+    "PhoneNumber": "073-2288287",
+    "FaxNumber": "09-7496575",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.019247,
+      "Longitude": 34.7972723,
+      "Address": "הנפח 8 (ת.ד 1715) 8 , נתניה"
+    }
+  },
+  {
+    "Name": "מוסך מיטב-רכב בית אל שירותי רכ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "בית הדפוס 29 (ת\"ד 98",
+    "City": "ירושלים",
+    "PhoneNumber": "02-6513833",
+    "FaxNumber": "02-6535924",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.7852087,
+      "Longitude": 35.1828468,
+      "Address": "בית הדפוס 29 (ת\"ד 98 , ירושלים"
+    }
+  },
+  {
+    "Name": "בוואריאן מוטורס שרותי רכב בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "האורזים 6",
+    "City": "נתניה",
+    "PhoneNumber": "09-9537171",
+    "FaxNumber": "09-9734959",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.3204976,
+      "Longitude": 34.8714264,
+      "Address": "האורזים 6 , נתניה"
+    }
+  },
+  {
+    "Name": "מוסך אומני הרכב אשקלון בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "הגלגל(א.תעשיה צפוני)",
+    "City": "אשקלון",
+    "PhoneNumber": "08-6758002",
+    "FaxNumber": "08-6759090",
+    "Area": "דרום",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.6687885,
+      "Longitude": 34.5742523,
+      "Address": "הגלגל(א.תעשיה צפוני) , אשקלון"
+    }
+  },
+  {
+    "Name": "מוטורוני לפיד בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "ראם 6",
+    "City": "תל אביב - יפו",
+    "PhoneNumber": "03-5621104",
+    "FaxNumber": "03-5626925",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: יונדאי",
+    "Location": {
+      "Latitude": 32.06789,
+      "Longitude": 34.788993,
+      "Address": "ראם 6 , תל אביב - יפו"
+    }
+  },
+  {
+    "Name": "שגריר מערכות - אשדוד",
+    "Type": "סוג: מוסך כללי",
+    "Address": "הנפח 8 (ת.ד 1715) 8",
+    "City": "אשדוד",
+    "PhoneNumber": "08-8563343",
+    "FaxNumber": "08-8563591",
+    "Area": "דרום",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.019247,
+      "Longitude": 34.7972723,
+      "Address": "הנפח 8 (ת.ד 1715) 8 , אשדוד"
+    }
+  },
+  {
+    "Name": "מוסך האיצטדיון \"ניסים\" בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "ברוך הירש 17",
+    "City": "בני ברק",
+    "PhoneNumber": "03-6180740",
+    "FaxNumber": "03-5709313",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: מאזדה",
+    "Location": {
+      "Latitude": 32.097616,
+      "Longitude": 34.8263274,
+      "Address": "ברוך הירש 17 , בני ברק"
+    }
+  },
+  {
+    "Name": "אילן טוהר הרכב בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "ההדרים 58",
+    "City": "אשדוד",
+    "PhoneNumber": "08-8604571",
+    "FaxNumber": "08-8560089",
+    "Area": "שפלה",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.817874,
+      "Longitude": 34.663769,
+      "Address": "ההדרים 58 , אשדוד"
+    }
+  },
+  {
+    "Name": "מרכז שרות דור 18 בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "גיסין 94",
+    "City": "פתח תקווה",
+    "PhoneNumber": "03-9405060",
+    "FaxNumber": "03-7464644",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: דאצ'ה",
+    "Location": {
+      "Latitude": 32.0969677,
+      "Longitude": 34.8616314,
+      "Address": "גיסין 94 , פתח תקווה"
+    }
+  },
+  {
+    "Name": "מוסך דלוקס פחחות וצבע",
+    "Type": "סוג: מוסך כללי",
+    "Address": "כפר קאסם",
+    "City": "כפר קאסם",
+    "PhoneNumber": "054-5928749",
+    "FaxNumber": "037704455",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.114093,
+      "Longitude": 34.972767,
+      "Address": "כפר קאסם , כפר קאסם"
+    }
+  },
+  {
+    "Name": "ארן אמויאל בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "בית הדפוס 29",
+    "City": "ירושלים",
+    "PhoneNumber": "02-6556677",
+    "FaxNumber": "026556699",
+    "Area": "ירושלים",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.7852087,
+      "Longitude": 35.1828468,
+      "Address": "בית הדפוס 29 , ירושלים"
+    }
+  },
+  {
+    "Name": "חי שרותי רכב (ליאב) בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "עמל 15 (ת.ד 3523)",
+    "City": "פתח תקווה",
+    "PhoneNumber": "03-9214477",
+    "FaxNumber": "03-9194448",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.0953613,
+      "Longitude": 34.8526907,
+      "Address": "עמל 15 (ת.ד 3523) , פתח תקווה"
+    }
+  },
+  {
+    "Name": "ד\"ר פח וצבע חיפה בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "החרמש 58",
+    "City": "חיפה",
+    "PhoneNumber": "04-8109111",
+    "FaxNumber": "04-8109110",
+    "Area": "צפון",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.789349,
+      "Longitude": 35.042515,
+      "Address": "החרמש 58 , חיפה"
+    }
+  },
+  {
+    "Name": "ד\"ר פח וצבע אשדוד בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "הקדמה 34",
+    "City": "אשדוד",
+    "PhoneNumber": "08-6868881",
+    "FaxNumber": "08-6868884",
+    "Area": "שפלה",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: רכב חשמלי ,",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 31.8352017,
+      "Longitude": 34.6873057,
+      "Address": "הקדמה 34 , אשדוד"
+    }
+  },
+  {
+    "Name": "שקד דגני נכסים בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "הירקון 25",
+    "City": "בני ברק",
+    "PhoneNumber": "03-5707317",
+    "FaxNumber": "0765100505",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: יונדאי",
+    "Location": {
+      "Latitude": 32.0964398,
+      "Longitude": 34.8264112,
+      "Address": "הירקון 25 , בני ברק"
+    }
+  },
+  {
+    "Name": "אייקאר מ.ש.ט בע\"מ",
+    "Type": "סוג: מוסך כללי",
+    "Address": "אברהם גירון 3",
+    "City": "יהוד-מונוסון",
+    "PhoneNumber": "03-5363364",
+    "FaxNumber": "03-5360717",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: כולם",
+    "Location": {
+      "Latitude": 32.0273249,
+      "Longitude": 34.8947856,
+      "Address": "אברהם גירון 3 , יהוד-מונוסון"
+    }
+  },
+  {
+    "Name": "ממסי שרותי דרך וגרירה בע\"מ",
+    "Type": "סוג: מוסך מורשה",
+    "Address": "נחשון 31",
+    "City": "חולון",
+    "PhoneNumber": "03-6544111",
+    "FaxNumber": "03-6544777",
+    "Area": "מרכז",
+    "IsFix": false,
+    "AdditionalDesc": "פרטים נוספים: ",
+    "VehicleModel": "דגם: פורד",
+    "Location": {
+      "Latitude": 32.0279936,
+      "Longitude": 34.7657344,
+      "Address": "נחשון 31 , חולון"
+    }
+  }
+]
